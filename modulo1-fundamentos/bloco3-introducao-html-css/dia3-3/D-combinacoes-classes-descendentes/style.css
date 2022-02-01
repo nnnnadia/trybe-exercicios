@@ -1,0 +1,49 @@
+li {
+  font-size: 20px;
+}
+li em {
+  font-weight: bold;
+}
+a:link {
+  color: inherit;
+}
+a:visited {
+  color: inherit;
+}
+ol li:nth-of-type(2n) {
+  color: green;
+}
+ol li:nth-of-type(2n+1) {
+  text-transform: uppercase;
+}
+.red-headers {
+  color: red;
+}
+.red-headers em {
+  font-size: 40px;
+  border: 1px solid black;
+}
+.first-three {
+  color: blue;
+}
+.java-something {
+  background-color: pink;
+}
+#allies li:hover {
+  font-weight: bold;
+}
+#stackoverflow:hover {
+  color: orange;
+}
+#w3schools:hover {
+  color: green;
+}
+#mdn:hover {
+  color: black;
+}
+#devdocs:hover {
+  color: yellow;
+}
+#trybe:hover {
+  color: green;
+}
