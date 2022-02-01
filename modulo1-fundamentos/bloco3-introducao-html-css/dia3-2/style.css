@@ -1,0 +1,32 @@
+body {
+  font-size: 16px;
+}
+p {
+  font-weight: 600;
+  font-size: 3em;
+  text-align: center;
+}
+li {
+  line-height: 2em;
+}
+h1 {
+  font-family: sans-serif;
+  font-size: 65px;
+  color: orange;
+  text-decoration: saddlebrown wavy underline;
+}
+.fundo-laranja {
+  background-color: orangered;
+}
+#item-amarelo {
+  background-color: yellow;
+  font-family: serif;
+}
+#item-vermelho {
+  background-color: red;
+  font-family: cursive;
+}
+#item-marrom {
+  background-color: saddlebrown;
+  font-family: monospace;
+}
