@@ -33,8 +33,8 @@ O programa conta com mais de 1500 horas de aulas presenciais e online, aborda in
 ##### Bloco 4: Introdução à JavaScript e Lógica de Programação
 
 - [x] 4.1: _Introdução - JavaScript_
-- [x] 4.1: _JavaScript - Primeiros passsos_
-- [x] 4.2: _JavaScript - Array e loop for_
+- [x] 4.1: _[JavaScript - Primeiros passsos](https://github.com/nnnnadia/trybe-exercicios/tree/main/modulo1-fundamentos/bloco4-introducao-javascript-logica-programacao/dia4-1/X-agora-pratica)_
+- [x] 4.2: _[JavaScript - Array e loop for](https://github.com/nnnnadia/trybe-exercicios/tree/main/modulo1-fundamentos/bloco4-introducao-javascript-logica-programacao/dia4-2/X-agora-a-pratica)_
 - [ ] 4.3: _JavaScript - Lógica de Programação e Algoritmos_
 - [ ] 4.4: _JavaScript - Objetos e funções_
 - [ ] 4.5: _[Projeto - Playground Functions]()_
