@@ -27,7 +27,7 @@ O programa conta com mais de 1500 horas de aulas presenciais e online, aborda in
 - [x] 3.1: _HTML & CSS - Estruturas de página_
 - [x] 3.2: _HTML & CSS - Primeiros passos em CSS_
 - [x] 3.3: _HTML & CSS - Seletores e posicionamento_
-- [x] 3.4: _HTML Semântico_
+- [x] 3.4: _[HTML Semântico](https://github.com/nnnnadia/trybe-exercicios/tree/main/modulo1-fundamentos/bloco3-introducao-html-css/dia3-4/X-agora-a-pratica)_
 - [x] 3.5: _[Projeto - Lessons Learned](https://github.com/tryber/sd-020-b-project-lessons-learned/tree/nadia-dutra-lessons-learned)_
 
 ##### Bloco 4: Introdução à JavaScript e Lógica de Programação
