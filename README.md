@@ -28,13 +28,13 @@ O programa conta com mais de 1500 horas de aulas presenciais e online, aborda in
 - [x] 3.2: _HTML & CSS - Primeiros passos em CSS_
 - [x] 3.3: _HTML & CSS - Seletores e posicionamento_
 - [x] 3.4: _HTML Semântico_
-- [x] 3.5: _[Projeto - Lessons Learned]()_
+- [x] 3.5: _[Projeto - Lessons Learned](https://github.com/tryber/sd-020-b-project-lessons-learned/tree/nadia-dutra-lessons-learned)_
 
 ##### Bloco 4: Introdução à JavaScript e Lógica de Programação
 
-- [ ] 4.1: _Introdução - JavaScript_
-- [ ] 4.1: _JavaScript - Primeiros passsos_
-- [ ] 4.2: _JavaScript - Array e loop for_
+- [x] 4.1: _Introdução - JavaScript_
+- [x] 4.1: _JavaScript - Primeiros passsos_
+- [x] 4.2: _JavaScript - Array e loop for_
 - [ ] 4.3: _JavaScript - Lógica de Programação e Algoritmos_
 - [ ] 4.4: _JavaScript - Objetos e funções_
 - [ ] 4.5: _[Projeto - Playground Functions]()_
