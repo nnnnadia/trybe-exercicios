@@ -53,5 +53,5 @@ for (let i = 1; i <= 25; i += 1) {
   orderedNumbers.push(i);
 }
 for (let number of orderedNumbers) {
-  log(number/2);
+  console.log(number/2);
 }
