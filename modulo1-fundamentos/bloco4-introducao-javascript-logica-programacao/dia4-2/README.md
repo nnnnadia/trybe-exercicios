@@ -16,5 +16,19 @@
 
 > ## X-agora a prática
 > 
-> - [agoraPratica.js](X-agora-a-pratica/agoraPratica.js)
-> - [bonus.js](X-agora-a-pratica/bonus.js)
+> ### Agora a prática
+> 
+> - [imprimeTodos.js](X-agora-a-pratica/imprimeTodos.js)
+> - [acumulaTodos.js](X-agora-a-pratica/acumulaTodos.js)
+> - [calculaMediaAritmetica.js](X-agora-a-pratica/calculaMediaAritmetica.js)
+> - [descobreMaior.js](X-agora-a-pratica/descobreMaior.js)
+> - [existeImpar.js](X-agora-a-pratica/existeImpar.js)
+> - [descobreMenor.js](X-agora-a-pratica/descobreMenor.js)
+> - [contaDeUmANum.js](X-agora-a-pratica/contaDeUmANum.js)
+> - [divideTodosPorDois.js](X-agora-a-pratica/divideTodosPorDois.js)
+> 
+> 
+> ### Bônus
+> 
+> - [ordenaNumeros.js](X-agora-a-pratica/ordenaNumeros.js)
+> - [multiplicaPorNumeroSeguinte.js](X-agora-a-pratica/multiplicaPorNumeroSeguinte.js)
