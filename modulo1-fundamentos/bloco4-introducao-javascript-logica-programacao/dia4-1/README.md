@@ -2,25 +2,26 @@
 
 > ## A-variáveis
 > 
-> ### [Exercício 1](A-variaveis/scripts.js)
+> - [Exercício 1](A-variaveis/scripts.js)
 
 > ## B-tipos primitivos, tipagem dinâmica e operações aritméticas
 >
-> ### [Exercício 1](B-tipos-primitivos-tipagem-dinamica-operacoes-aritmeticas/script.js)
+> - [Exercício 1](B-tipos-primitivos-tipagem-dinamica-operacoes-aritmeticas/script.js)
 
 > ## C-condições if e else
 > 
-> ### [Exercício 1](C-if-else/script.js)
+> - [Exercício 1](C-if-else/script.js)
 
 > ## D-operadores lógicos
 > 
-> ### [Exercício 1](D-operadores-logicos/script.js)
+> - [Exercício 1](D-operadores-logicos/script.js)
 
 > ## E-switch e case
 > 
-> ### [Exercício 1](E-switch-case/script.js)
+> - [Exercício 1](E-switch-case/script.js)
 
 > ## X-agora a prática 
+> 
 > - [adicao.js](X-agora-pratica/adicao.js)
 > - [subtracao.js](X-agora-pratica/subtracao.js)
 > - [multiplicacao.js](X-agora-pratica/multiplicacao.js)
