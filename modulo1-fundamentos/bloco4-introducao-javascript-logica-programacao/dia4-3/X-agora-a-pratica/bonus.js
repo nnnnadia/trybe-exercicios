@@ -20,7 +20,7 @@ for (let i = 1; i <= n; i += 2) {
   console.log(" ".repeat((n - i) / 2) + "*".repeat(i));
 }
 
-// imprime triangulo isósceles vazio
+// imprime triangulo isósceles vazado
 for (let i = 1; i <= n; i += 2) {
   if (i === 1 || (i === n) || (i === n - 1)) {
     console.log(" ".repeat((n - i) / 2) + "*".repeat(i));
