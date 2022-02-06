@@ -12,4 +12,9 @@
 > 
 > ### Bônus
 > 
-> - [bonus.js](X-agora-a-pratica/bonus.js)
+> - [quadrado.js](X-agora-a-pratica/quadrado.js)
+> - [triangulo.js](X-agora-a-pratica/triangulo.js)
+> - [trianguloInvertido.js](X-agora-a-pratica/trianguloInvertido.js)
+> - [trianguloIsosceles.js](X-agora-a-pratica/trianguloIsosceles.js)
+> - [trianguloVazado.js](X-agora-a-pratica/trianguloVazado.js)
+> - [ehPrimo.js](X-agora-a-pratica/ehPrimo.js)
