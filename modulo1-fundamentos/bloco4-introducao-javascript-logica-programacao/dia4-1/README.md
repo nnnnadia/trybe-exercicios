@@ -20,9 +20,7 @@
 > 
 > ### [Exercício 1](E-switch-case/script.js)
 
-> ## X-agora a prática
-> 
-> ### agoraPratica.js
+> ## X-agora a prática 
 > - [adicao.js](X-agora-pratica/adicao.js)
 > - [subtracao.js](X-agora-pratica/subtracao.js)
 > - [multiplicacao.js](X-agora-pratica/multiplicacao.js)
