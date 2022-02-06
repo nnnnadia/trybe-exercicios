@@ -2,12 +2,14 @@
 
 > ## X-agora a prática
 > 
-> ### [fatorial.js](X-agora-a-pratica/fatorial.js)
+> - [fatorial.js](X-agora-a-pratica/fatorial.js)
 > 
-> ### [invertePalavra.js](X-agora-a-pratica/invertePalavra.js)
+> - [invertePalavra.js](X-agora-a-pratica/invertePalavra.js)
 > 
-> ### [maioresEMenoresPalavras.js](X-agora-a-pratica/maioresEMenoresPalavras.js.js)
+> - [maioresEMenoresPalavras.js](X-agora-a-pratica/maioresEMenoresPalavras.js.js)
 > 
-> ### [descobreMaiorPrimo.js](X-agora-a-pratica/descobreMaiorPrimo.js)
+> - [descobreMaiorPrimo.js](X-agora-a-pratica/descobreMaiorPrimo.js)
 > 
-> ### [bonus.js](X-agora-a-pratica/bonus.js)
+> ### Bônus
+> 
+> - [bonus.js](X-agora-a-pratica/bonus.js)
