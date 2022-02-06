@@ -1,4 +1,4 @@
-# 4.2: JavaScript - Primeiros passos
+# 4.1: JavaScript - Primeiros passos
 
 > ## A-variáveis
 > 
