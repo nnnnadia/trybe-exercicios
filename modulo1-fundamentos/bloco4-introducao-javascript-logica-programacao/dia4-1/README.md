@@ -1,4 +1,4 @@
-# 4.2: JavaScript - Array e loop for
+# 4.2: JavaScript - Primeiros passos
 
 > ## A-variáveis
 > 
