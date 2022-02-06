@@ -10,4 +10,4 @@
 > 
 > ### [descobreMaiorPrimo.js](X-agora-a-pratica/descobreMaiorPrimo.js)
 > 
-> ### [bonus.js](X-agora-a-pratica/bonus.)
+> ### [bonus.js](X-agora-a-pratica/bonus.js)
