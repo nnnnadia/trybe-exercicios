@@ -36,7 +36,7 @@ O programa conta com mais de 1500 horas de aulas presenciais e online, aborda in
 - [x] 4.1: _[JavaScript - Primeiros passsos](modulo1-fundamentos/bloco4-introducao-javascript-logica-programacao/dia4-1/)_
 - [x] 4.2: _[JavaScript - Array e loop for](modulo1-fundamentos/bloco4-introducao-javascript-logica-programacao/dia4-2/)_
 - [x] 4.3: _[JavaScript - Lógica de Programação e Algoritmos](modulo1-fundamentos/bloco4-introducao-javascript-logica-programacao/dia4-3/)_
-- [x] 4.4: _[JavaScript - Objetos e funções](modulo1-fundamentos/bloco4-introducao-javascript-logica-programacao/dia4-3/)_
+- [x] 4.4: _[JavaScript - Objetos e funções](modulo1-fundamentos/bloco4-introducao-javascript-logica-programacao/dia4-4/)_
 - [ ] 4.5: _Projeto - Playground Functions_
 
 ##### Bloco 5: JavaScript: DOM, Eventos e Web Storage
