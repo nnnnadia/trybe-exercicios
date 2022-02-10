@@ -90,3 +90,8 @@ O programa conta com mais de 1500 horas de aulas presenciais e online, aborda in
 ## Desenvolvimento Back-End :hourglass_flowing_sand:
 
 ## Ciência da Computação :hourglass_flowing_sand:
+
+## Referências
+
+- _[www.developer.mozilla.org/](https://developer.mozilla.org/)_
+- _[www.w3schools.com](https://www.w3schools.com)_
