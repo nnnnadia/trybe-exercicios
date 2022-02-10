@@ -22,6 +22,8 @@
 > - [indiceMaiorNumero.js](X-agora-a-pratica/indiceMaiorNumero.js)
 > - [indiceMenorNumero.js](X-agora-a-pratica/indiceMenorNumero.js)
 > - [indiceMaiorNome.js](X-agora-a-pratica/indiceMaiorNome.js)
+> - [moda.js](X-agora-a-pratica/moda.js)
+> - [somaUmAteNum.js](X-agora-a-pratica/somaUmAteNum.js)
 > - [verificaFimPalavra.js](X-agora-a-pratica/verificaFimPalavra.js)
 > 
 > #### Bônus
