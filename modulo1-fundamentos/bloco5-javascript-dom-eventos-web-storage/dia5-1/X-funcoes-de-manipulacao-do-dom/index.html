@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>Exercício 5.1</title>
+    
+    <style>
+      main, section {
+        border-color: black;
+        border-style: solid;
+      }
+
+      .title {
+        text-align: center;
+      }
+
+      .main-content {
+        background-color: yellow;
+      }
+
+      .main-content .center-content {
+        background-color: red;
+        width: 50%;
+        margin: 0 auto;
+      }
+
+      .main-content .center-content p {
+        font-style: italic;
+      }
+    </style>
+  </head>
+  <body>
+    <header> 
+      <h1 class="title">Exercício 5.1 - JavaEscripito </h1>
+    </header>    
+    <main class="main-content">
+      <section class="center-content">
+        <p>Texto padrão do nosso site</p>
+        <p>-----</p>
+        <p>Trybe</p>
+      </section>
+    </main>
+    <script>
+      let texto = document.getElementsByTagName("p");
+      texto[0].innerText = "Um texto bem interessante.";
+      texto[1].innerText = "Por alguns parágrafos."
+      texto[2].innerText = "Ainda não acabou."
+      let fundoFundo = document.getElementsByClassName("main-content");
+      fundoFundo[0].style.backgroundColor = "rgb(76,164,109)";
+      let fundo = document.getElementsByClassName("center-content");
+      fundo[0].style.backgroundColor = "white";
+      let titulo = document.getElementsByTagName("h1");
+      titulo[0].innerText = "Exercício 5.1 - JavaScript";
+      for (let i = 0; i < texto.length; i += 1) {
+        texto[i].style.textTransform = "uppercase";
+        console.log(texto[i].innerText);
+      }
+    </script>
+  </body>
+</html>
