@@ -37,3 +37,5 @@
 > - [umDosTresEhImpar.js](X-agora-pratica/umDosTresEhImpar.js)
 > - [lucroDeMil.js](X-agora-pratica/lucroDeMil.js)
 > - [salarioLiquido.js](X-agora-pratica/salarioLiquido.js)
+
+##### [Voltar](https://github.com/nnnnadia/trybe-exercicios#bloco-4-introdução-à-javascript-e-lógica-de-programação)
