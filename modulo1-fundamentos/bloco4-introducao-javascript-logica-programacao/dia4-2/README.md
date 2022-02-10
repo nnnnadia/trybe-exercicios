@@ -1,22 +1,22 @@
-# 4.2: JavaScript - Array e Loop For
+## 4.2: JavaScript - Array e Loop For
 
-> ## A-arrays
+> ### A-arrays
 > 
 > - [Exercício 1](A-arrays/oValorServico.js)
 > - [Exercício 2](A-arrays/indiceNoMenu.js).
 > - [Exercício 3](A-arrays/adicionaContato.js)
 
-> ## B-for
+> ### B-for
 >
 > - [Exercício 1](B-for/listaDeCompras.js)
 
-> ## C-for/of
+> ### C-for/of
 > 
 > - [Exercício 1](C-for-of/nomesNaLista.js)
 
-> ## X-agora a prática
+> ### X-agora a prática
 > 
-> ### Agora a prática
+> #### Agora a prática
 > 
 > - [imprimeTodos.js](X-agora-a-pratica/imprimeTodos.js)
 > - [acumulaTodos.js](X-agora-a-pratica/acumulaTodos.js)
@@ -28,7 +28,7 @@
 > - [divideTodosPorDois.js](X-agora-a-pratica/divideTodosPorDois.js)
 > 
 > 
-> ### Bônus
+> #### Bônus
 > 
 > - [ordenaNumeros.js](X-agora-a-pratica/ordenaNumeros.js)
 > - [multiplicaPorNumeroSeguinte.js](X-agora-a-pratica/multiplicaPorNumeroSeguinte.js)
