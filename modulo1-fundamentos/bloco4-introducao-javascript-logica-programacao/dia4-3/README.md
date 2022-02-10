@@ -15,3 +15,5 @@
 > - [trianguloIsosceles.js](X-agora-a-pratica/trianguloIsosceles.js)
 > - [trianguloVazado.js](X-agora-a-pratica/trianguloVazado.js)
 > - [ehPrimo.js](X-agora-a-pratica/ehPrimo.js)
+
+##### [Voltar](../../trybe-exercicios)
