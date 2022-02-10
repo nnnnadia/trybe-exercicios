@@ -35,5 +35,10 @@ let info2 = {
 }
 
 for (let index in info) {
-  console.log(info[index] + ' e ' + info2[index]);
+  if (index == 'recorrente' && info[index] == info2[index]) {
+    console.log("Ambos são recorrentes");
+  } else {
+    console.log(info[index] + ' e ' + info2[index]);
+  }
+  
 }
