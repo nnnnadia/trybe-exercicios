@@ -16,4 +16,4 @@
 > - [trianguloVazado.js](X-agora-a-pratica/trianguloVazado.js)
 > - [ehPrimo.js](X-agora-a-pratica/ehPrimo.js)
 
-##### [Voltar](trybe-exercicios/)
+##### [Voltar](https://github.com/nnnnadia/trybe-exercicios#bloco-4-introdução-à-javascript-e-lógica-de-programação)
