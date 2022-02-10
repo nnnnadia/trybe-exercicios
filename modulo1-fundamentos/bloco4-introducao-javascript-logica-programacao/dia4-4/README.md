@@ -22,7 +22,7 @@
 > - [indiceMaiorNumero.js](X-agora-a-pratica/indiceMaiorNumero.js)
 > - [indiceMenorNumero.js](X-agora-a-pratica/indiceMenorNumero.js)
 > - [indiceMaiorNome.js](X-agora-a-pratica/indiceMaiorNome.js)
-> - []()
+> - [verificaFimPalavra.js](X-agora-a-pratica/verificaFimPalavra.js)
 > 
 > #### Bônus
 > 
