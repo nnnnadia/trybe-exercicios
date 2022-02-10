@@ -32,3 +32,5 @@
 > 
 > - [ordenaNumeros.js](X-agora-a-pratica/ordenaNumeros.js)
 > - [multiplicaPorNumeroSeguinte.js](X-agora-a-pratica/multiplicaPorNumeroSeguinte.js)
+
+##### [Voltar](https://github.com/nnnnadia/trybe-exercicios#bloco-4-introdução-à-javascript-e-lógica-de-programação)
