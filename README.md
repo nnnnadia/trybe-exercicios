@@ -42,7 +42,7 @@ O programa conta com mais de 1500 horas de aulas presenciais e online, aborda in
 ##### Bloco 5: JavaScript: DOM, Eventos e Web Storage
 
 - [x] 5.1: _[JavaScript - DOM e seletores](modulo1-fundamentos/bloco5-javascript-dom-eventos-web-storage/dia5-1#51-javascript---dom-e-seletores)_
-- [ ] 5.2: _[JavaScript - Trabalhando com elementos](modulo1-fundamentos/bloco5-javascript-dom-eventos-web-storage/dia5-2#52-javascript---trabalhando-com-elementos)_
+- [x] 5.2: _[JavaScript - Trabalhando com elementos](modulo1-fundamentos/bloco5-javascript-dom-eventos-web-storage/dia5-2#52-javascript---trabalhando-com-elementos)_
 - [ ] 5.3: _JavaScript - Eventos_
 - [ ] 5.4: _JavaScript - Web Storage_
 - [ ] 5.5: _Fundamentos - JavaScript - Projetos_
