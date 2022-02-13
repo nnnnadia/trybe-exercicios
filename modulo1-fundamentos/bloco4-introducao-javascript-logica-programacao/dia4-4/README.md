@@ -22,6 +22,10 @@
 > - [indiceMaiorNumero.js](X-agora-a-pratica/indiceMaiorNumero.js)
 > - [indiceMenorNumero.js](X-agora-a-pratica/indiceMenorNumero.js)
 > - [indiceMaiorNome.js](X-agora-a-pratica/indiceMaiorNome.js)
+> - [converteAlgarismosRomanos.js](dia4-4/X-agora-a-pratica/converteAlgarismosRomanos.js)
+> - [paresNoVetor.js](dia4-4/X-agora-a-pratica/paresNoVetor.js)
+> - [basket.js](dia4-4/X-agora-a-pratica/basket.js)
+> - []()
 > - []()
 > 
 > #### Bônus
