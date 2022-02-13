@@ -33,16 +33,16 @@ O programa conta com mais de 1500 horas de aulas presenciais e online, aborda in
 ##### Bloco 4: Introdução à JavaScript e Lógica de Programação
 
 - [x] 4.1: _Introdução - JavaScript_
-- [x] 4.1: _[JavaScript - Primeiros passsos](modulo1-fundamentos/bloco4-introducao-javascript-logica-programacao/dia4-1/)_
-- [x] 4.2: _[JavaScript - Array e loop for](modulo1-fundamentos/bloco4-introducao-javascript-logica-programacao/dia4-2/)_
-- [x] 4.3: _[JavaScript - Lógica de Programação e Algoritmos](modulo1-fundamentos/bloco4-introducao-javascript-logica-programacao/dia4-3/)_
-- [ ] 4.4: _[JavaScript - Objetos e funções](modulo1-fundamentos/bloco4-introducao-javascript-logica-programacao/dia4-4/)_
+- [x] 4.1: _[JavaScript - Primeiros passsos](modulo1-fundamentos/bloco4-introducao-javascript-logica-programacao/dia4-1/#41-javascript---primeiros-passos)_
+- [x] 4.2: _[JavaScript - Array e loop for](modulo1-fundamentos/bloco4-introducao-javascript-logica-programacao/dia4-2/#42-javascript---array-e-loop-for)_
+- [x] 4.3: _[JavaScript - Lógica de Programação e Algoritmos](modulo1-fundamentos/bloco4-introducao-javascript-logica-programacao/dia4-3/#43-javascript---lógica-de-programação-e-algoritmos)_
+- [ ] 4.4: _[JavaScript - Objetos e funções](modulo1-fundamentos/bloco4-introducao-javascript-logica-programacao/dia4-4/#44-javascript---objetos-e-funções)_
 - [ ] 4.5: _Projeto - Playground Functions_
 
 ##### Bloco 5: JavaScript: DOM, Eventos e Web Storage
 
-- [x] 5.1: _[JavaScript - DOM e seletores](modulo1-fundamentos/bloco5-javascript-dom-eventos-web-storage/dia5-1)_
-- [ ] 5.2: _JavaScript - Trabalhando com elementos_
+- [x] 5.1: _[JavaScript - DOM e seletores](modulo1-fundamentos/bloco5-javascript-dom-eventos-web-storage/dia5-1#51-javascript---dom-e-seletores)_
+- [x] 5.2: _[JavaScript - Trabalhando com elementos](modulo1-fundamentos/bloco5-javascript-dom-eventos-web-storage/dia5-2#52-javascript---trabalhando-com-elementos)_
 - [ ] 5.3: _JavaScript - Eventos_
 - [ ] 5.4: _JavaScript - Web Storage_
 - [ ] 5.5: _Fundamentos - JavaScript - Projetos_

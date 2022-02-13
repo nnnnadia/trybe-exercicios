@@ -15,3 +15,5 @@
 > - [trianguloIsosceles.js](X-agora-a-pratica/trianguloIsosceles.js)
 > - [trianguloVazado.js](X-agora-a-pratica/trianguloVazado.js)
 > - [ehPrimo.js](X-agora-a-pratica/ehPrimo.js)
+
+##### [Voltar](https://github.com/nnnnadia/trybe-exercicios#bloco-4-introdução-à-javascript-e-lógica-de-programação)
