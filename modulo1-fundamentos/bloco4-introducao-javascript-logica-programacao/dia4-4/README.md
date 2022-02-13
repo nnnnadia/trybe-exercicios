@@ -31,5 +31,6 @@
 > - [converteAlgarismosRomanos.js](X-agora-a-pratica/converteAlgarismosRomanos.js)
 > - [paresNoVetor.js](X-agora-a-pratica/paresNoVetor.js)
 > - [basket.js](X-agora-a-pratica/basket.js)
+> - [predio.js](X-agora-a-pratica/predio.js)
 
 ##### [Voltar](https://github.com/nnnnadia/trybe-exercicios#bloco-4-introdução-à-javascript-e-lógica-de-programação)
