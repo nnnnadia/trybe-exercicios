@@ -105,7 +105,7 @@ btnHoliday.addEventListener('click', changeColorHolidays);
 createButton('btn-friday', 'Sexta-feira');
 
 /*Exercício 5
- Implemente uma função que adicione ao botão "Sexta-feira" um evento de "click" que modifica o texto exibido nos dias que são Sexta-feira.
+  Implemente uma função que adicione ao botão "Sexta-feira" um evento de "click" que modifica o texto exibido nos dias que são Sexta-feira.
 
   - É interessante que este botão possua também a lógica inversa. Ao ser clicado novamente ele retorna à configuração inicial exibindo os dias.
 */
@@ -124,3 +124,23 @@ function changeTextFridays() {
 
 let btnFriday = document.querySelector('#btn-friday');
 btnFriday.addEventListener('click', changeTextFridays);
+
+/*Exercício 6
+  Implemente duas funções que criem um efeito de "zoom". Ao passar o ponteiro do mouse em um dia do mês no calendário, o texto desse dia deve aumentar e, quando o ponteiro do mouse sair do dia, o texto deve retornar ao tamanho original.
+
+  - Dica - Propriedade: event.target .
+*/
+
+function zoomIn(event) {
+  event.target.style.fontWeight = 'bold';
+}
+
+function zoomOut(event) {
+  event.target.style.fontWeight = 'normal';
+}
+
+let days = document.querySelectorAll('.day');
+for (let element of days) {
+  element.addEventListener('mouseover', zoomIn);
+  element.addEventListener('mouseleave', zoomOut);
+}
