@@ -157,6 +157,8 @@ function addTask() {
   let newSpan = document.createElement('span');
   newSpan.innerText = taskInput.value;
   myTasks.appendChild(newSpan);
+  let newDiv = colorTask('darkgreen');
+  myTasks.appendChild(newDiv);
 }
 
 let btnAdd = document.querySelector('#btn-add');
@@ -169,7 +171,11 @@ btnAdd.addEventListener('click', addTask);
   - O elemento criado deverá ser adicionado como filho/filha da tag <div> que possui a classe "my-tasks".
 */
 
-
+function colorTask(color) {
+  let colorDiv = document.createElement('div');
+  colorDiv.style.backgroundColor = color;
+  return colorDiv;
+}
 
 /*Exercício 9
   Implemente uma função que adiciona um evento que, ao clicar no elemento com a tag <div> referente a cor da sua tarefa, atribua a este elemento a classe task selected, ou seja, quando sua tarefa possuir a classe task selected, ela estará selecionada.
