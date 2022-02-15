@@ -44,7 +44,7 @@ O programa conta com mais de 1500 horas de aulas presenciais e online, aborda in
 - [x] 5.1: _[JavaScript - DOM e seletores](modulo1-fundamentos/bloco5-javascript-dom-eventos-web-storage/dia5-1#51-javascript---dom-e-seletores)_
 - [x] 5.2: _[JavaScript - Trabalhando com elementos](modulo1-fundamentos/bloco5-javascript-dom-eventos-web-storage/dia5-2#52-javascript---trabalhando-com-elementos)_
 - [ ] 5.3: _[JavaScript - Eventos](modulo1-fundamentos/bloco5-javascript-dom-eventos-web-storage/dia5-3#53-javascript---eventos)_
-- [ ] 5.4: _[JavaScript - Web Storage](modulo1-fundamentos/bloco5-javascript-dom-eventos-web-storage/dia5-4)_
+- [x] 5.4: _[JavaScript - Web Storage](modulo1-fundamentos/bloco5-javascript-dom-eventos-web-storage/dia5-4#54-javascript---web-storage)_
 - [ ] 5.5: _Fundamentos - JavaScript - Projetos_
 - [ ] 5.5: _Projeto - Arte com Pixels_
 - [ ] 5.6: _Projeto - Lista de tarefas_
