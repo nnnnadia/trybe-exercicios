@@ -151,19 +151,6 @@ for (let element of days) {
   O elemento criado deverá ser adicionado como filho/filha da tag <div> que possui a classe "my-tasks".
 */
 
-function addTask() {
-  let taskInput = document.querySelector('#task-input');
-  let myTasks = document.querySelector('.my-tasks');
-  let newSpan = document.createElement('span');
-  newSpan.innerText = taskInput.value;
-  myTasks.appendChild(newSpan);
-  let newDiv = colorTask('darkgreen');
-  myTasks.appendChild(newDiv);
-}
-
-let btnAdd = document.querySelector('#btn-add');
-btnAdd.addEventListener('click', addTask);
-
 /*Exercício 8
   Implemente uma função que adiciona uma legenda com cor para a tarefa criada no exercício anterior. Esta função deverá receber como parâmetro uma string ("cor") e criar dinamicamente um elemento de tag <div> com a classe task.
 
@@ -171,11 +158,41 @@ btnAdd.addEventListener('click', addTask);
   - O elemento criado deverá ser adicionado como filho/filha da tag <div> que possui a classe "my-tasks".
 */
 
-function colorTask(color) {
-  let colorDiv = document.createElement('div');
-  colorDiv.style.backgroundColor = color;
-  return colorDiv;
+/*
+  <div class="my-tasks">
+    <h3>MINHAS TAREFAS</h3>
+    <div class="unique-task">
+      <span>Task</span>
+      <div class="task-pin" ...></div>
+    </div>
+  </div>
+*/
+
+function createTaskSpan(input) {
+  let newSpan = document.createElement('span');
+  newSpan.innerText = input.value;
+  return newSpan;
 }
+
+function createTaskPin(color) {
+  let pinDiv = document.createElement('div');
+  pinDiv.className = 'task-pin';
+  pinDiv.style.backgroundColor = color;
+  return pinDiv;
+}
+
+function addTask() {
+  let taskInput = document.querySelector('#task-input');
+  let myTasks = document.querySelector('.my-tasks');
+  let newTaskDiv = document.createElement('div');
+  newTaskDiv.className = 'unique-task';
+  newTaskDiv.appendChild(createTaskSpan(taskInput));
+  newTaskDiv.appendChild(createTaskPin('darkgreen'));
+  myTasks.appendChild(newTaskDiv);
+}
+
+let btnAdd = document.querySelector('#btn-add');
+btnAdd.addEventListener('click', addTask);
 
 /*Exercício 9
   Implemente uma função que adiciona um evento que, ao clicar no elemento com a tag <div> referente a cor da sua tarefa, atribua a este elemento a classe task selected, ou seja, quando sua tarefa possuir a classe task selected, ela estará selecionada.
@@ -183,7 +200,18 @@ function colorTask(color) {
   - Ao clicar novamente no elemento, a sua classe deverá voltar a ser somente task , ou seja, esta tarefa está deixando de ser uma tarefa selecionada.
 */
 
+function selectTask(event) {
+  console.log(event.target.className);
+  if (event.target.className != 'task') {
+    event.target.className = 'task';
+  } else {
+    event.target.className = 'task selected';
+  }
+}
 
+let selectDiv = document.querySelector('.my-tasks div');
+console.log(selectDiv);
+selectDiv.addEventListener('click', selectTask);
 
 /*Exercício 10
   Implemente uma função que adiciona um evento que, ao clicar em um dia do mês no calendário, atribua a este dia a cor da legenda da sua tarefa selecionada.
@@ -193,7 +221,7 @@ function colorTask(color) {
 
 
 
-/*
+/*Bônus
   Vamos adicionar compromissos ao seu calendário? Implemente uma função que, ao digitar um compromisso na caixa de texto "COMPROMISSOS", adiciona o item à lista "MEUS COMPROMISSOS" ao clicar no botão "ADICIONAR".
 
   - Se nenhum caractere for inserido no campo input , a função deve retornar um alert com uma mensagem de erro ao clicar em "ADICIONAR".
