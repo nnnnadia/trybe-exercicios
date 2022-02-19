@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" type="text/css" href="style.css">
+  <title>Rifa</title>
+</head>
+<body>
+  <h1>Preencha o formulário e concorra a uma viagem incrível!</h1>
+  <form action="" method="get">
+    <div id="preenchimento">
+      <div class="infos-pessoais">
+        <label for="nome-input">Nome:
+          <input type="text" name="nome-input" id="nome-input" minlength="10" maxlength="40">
+        </label>
+        <label for="email-input">Email:
+          <input type="email" name="email-input" id="email-input" minlength="10" maxlength="50">
+        </label>
+      </div>
+      <div class="infos-viagem">
+        <h4>Escolha o destino:</h4>
+        <label for="tribo-agua">
+          <input type="radio" name="opcao-destino" id="tribo-agua">
+          Tribo da Água
+        </label>
+        <label for="reino-terra">
+          <input type="radio" name="opcao-destino" id="reino-terra">
+          Reino da Terra
+        </label>
+        <label for="nacao-fogo">
+          <input type="radio" name="opcao-destino" id="nacao-fogo">
+          Nação do Fogo
+        </label>
+        <label for="templo-ar">
+          <input type="radio" name="opcao-destino" id="templo-ar">
+          Templo do Ar
+        </label>
+        <label for="date-input" class="date-input">Data da viagem:
+          <input type="date" name="date-input" id="date-input">
+        </label>
+      </div>
+      <fieldset>
+        <legend>Por que você deveria ganhar a vigem?</legend>
+        <textarea name="motivo-input" id="motivo-input" cols="50" rows="8" maxlength="500"></textarea>
+      </fieldset>
+      <div class="infos-confirmacao">
+        <label for="condordo-tds">
+          <input type="checkbox" name="confimacao" id="condordo-tds" required>
+          Concordo com os <a href="#">Termos de Serviço</a>.
+        </label>
+        <label for="condordo-udi">
+          <input type="checkbox" name="confimacao" id="condordo-udi" required>
+          Autorizo o uso da minha imagem.
+        </label>
+      </div>
+    </div>
+    <div id="botoes">
+      <button type="submit" id="btn-submit">Enviar</button>
+      <button type="reset">Apagar</button>
+    </div>
+  </form>
+  <script src="script.js"></script>
+</body>
+</html>

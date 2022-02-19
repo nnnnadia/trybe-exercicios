@@ -1,0 +1,50 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  text-align: center;
+  padding: 20px;
+}
+
+#preenchimento {
+  width: 80%;
+  padding: 10px;
+  border: 2px solid black;
+  margin: auto;
+}
+
+label {
+  padding: 5px;
+}
+
+h4 {
+  margin: 5px 0;
+}
+
+.infos-pessoais label {
+  width: fit-content;
+  display: block;
+}
+
+.date-input {
+  display: block;
+}
+
+fieldset legend {
+  margin: 0 5px;
+}
+
+.infos-confirmacao label {
+  display: block;
+}
+
+#botoes {
+  width: fit-content;
+  margin: 10px auto;
+}
+
+#botoes button {
+  margin: 0 5px;
+}
