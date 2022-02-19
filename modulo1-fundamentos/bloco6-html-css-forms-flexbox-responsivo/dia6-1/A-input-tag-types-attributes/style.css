@@ -1,0 +1,16 @@
+body {
+  background-color: rgb(204 , 179 , 255);
+}
+
+main {
+  background-color:  whitesmoke;
+  width: 60%;
+  padding: 10px 30px;
+  border-radius: 5px;
+  margin: auto;
+}
+
+.form-row {
+  width: fit-content;
+  margin: 10px auto;
+}
