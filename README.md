@@ -45,17 +45,17 @@ O programa conta com mais de 1500 horas de aulas presenciais e online, aborda in
 - [x] 5.2: _[JavaScript - Trabalhando com elementos](modulo1-fundamentos/bloco5-javascript-dom-eventos-web-storage/dia5-2#52-javascript---trabalhando-com-elementos)_
 - [ ] 5.3: _[JavaScript - Eventos](modulo1-fundamentos/bloco5-javascript-dom-eventos-web-storage/dia5-3#53-javascript---eventos)_
 - [x] 5.4: _[JavaScript - Web Storage](modulo1-fundamentos/bloco5-javascript-dom-eventos-web-storage/dia5-4#54-javascript---web-storage)_
-- [ ] 5.5: _Projeto - Arte com Pixels_
-- [ ] 5.6: _Projeto - Lista de tarefas_
+- [x] 5.5: _[Projeto - Arte com Pixels](https://nnnnadia.github.io/project-pixel-art/index.html)_
+- [x] 5.6: _[Projeto - Lista de tarefas](https://nnnnadia.github.io/project-to-do-list/index.html)_
 - [ ] 5.7: _(Bônus) Projeto - Meme Generator_
-- [ ] 5.7: _(Bônus) Projeto - Adivinhe a Cor_
+- [x] 5.7: _[(Bônus) Projeto - Adivinhe a Cor](https://nnnnadia.github.io/project-color-guess/index.html)_
 - [ ] 5.7: _(Bônus) Projeto - Carta Misteriosa_
 
 ##### Bloco 6: HTML e CSS: Forms, Flexbox e Responsivo
 
 - [x] 6.1: _[HTML & CSS - Forms](modulo1-fundamentos/bloco6-html-css-forms-flexbox-responsivo/dia6-1#61-html--css---forms)_
-- [ ] 6.2: _Bibliotecas JavaScript e Frameworks CSS_
-- [ ] 6.3: _Introdução - CSS Flexbox_
+- [x] 6.2: _Bibliotecas JavaScript e Frameworks CSS_
+- [x] 6.3: _Introdução - CSS Flexbox_
 - [ ] 6.3: _CSS Flexbox - Parte 1_
 - [ ] 6.4: _CSS Flexbox - Parte 2_
 - [ ] 6.5: _CSS Responsivo - Mobile First_
