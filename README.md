@@ -56,8 +56,8 @@ O programa conta com mais de 1500 horas de aulas presenciais e online, aborda in
 - [x] 6.1: _[HTML & CSS - Forms](modulo1-fundamentos/bloco6-html-css-forms-flexbox-responsivo/dia6-1#61-html--css---forms)_
 - [x] 6.2: _Bibliotecas JavaScript e Frameworks CSS_
 - [x] 6.3: _Introdução - CSS Flexbox_
-- [ ] 6.3: _CSS Flexbox - Parte 1_
-- [ ] 6.4: _CSS Flexbox - Parte 2_
+- [x] 6.3: _CSS Flexbox - Parte 1_
+- [x] 6.4: _CSS Flexbox - Parte 2_
 - [ ] 6.5: _CSS Responsivo - Mobile First_
 - [ ] 6.6: _Projeto - Trybewarts_
 
