@@ -1,0 +1,78 @@
+html {
+  box-sizing: border-box;
+}
+  
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+nav ul {
+	display: flex;
+	justify-content: center;
+}
+
+nav ul li {
+	background-color: DarkSeaGreen;
+	list-style: none;
+	padding: 5px;
+	border: 2px solid DarkSlateGray;
+	border-radius: 4px; 
+	margin-right: 20px;
+}
+
+#book-title {
+	width: fit-content;
+	margin: auto;
+	font-size: larger;
+}
+
+@media screen and (max-width: 768px) {
+	.container {
+		display: flex;
+		flex-direction: column;
+	}
+
+	.container > * {
+		margin: 15px;
+	}
+
+	.container header {
+		order: -2;
+	}
+
+	.container .aside-two {
+		order: -1;
+	}
+}
+
+@media screen and (min-width: 769px) and (max-width: 1440px) {
+	.container-aside {
+		display: flex;
+		justify-content: space-evenly;
+	}
+
+	.container > * {
+		margin: 15px 40px;
+	}
+}
+
+@media screen and (min-width: 1441px) {
+	.container {
+		display: flex;
+		flex-flow: row wrap;
+		justify-content: space-around;
+	}
+
+	header, footer {
+		width: 100%;
+		margin: 60px
+	}
+
+	.container-aside {
+		max-width: 25%;
+	}
+
+	.main-content {
+		max-width: 60%;
+	}
+}
