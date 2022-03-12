@@ -1,12 +1,32 @@
 html {
-    box-sizing: border-box;
-  }
+  box-sizing: border-box;
+}
   
-  *, *:before, *:after {
-    box-sizing: inherit;
-  }
+*, *:before, *:after {
+  box-sizing: inherit;
+}
 
-@media screen and (max-width: 500px) {
+nav ul {
+	display: flex;
+	justify-content: center;
+}
+
+nav ul li {
+	background-color: DarkSeaGreen;
+	list-style: none;
+	padding: 5px;
+	border: 2px solid DarkSlateGray;
+	border-radius: 4px; 
+	margin-right: 20px;
+}
+
+#book-title {
+	width: fit-content;
+	margin: auto;
+	font-size: larger;
+}
+
+@media screen and (max-width: 768px) {
 	.container {
 		display: flex;
 		flex-direction: column;
@@ -23,25 +43,3 @@ html {
 	.container .aside-two {
 		order: -1;
 	}
-
-	#book-title {
-		width: fit-content;
-		margin: auto;
-		font-size: larger;
-	}
-
-	nav ul {
-		display: flex;
-		justify-content: center;
-	}
-
-	nav ul li {
-		background-color: DarkSeaGreen;
-		list-style: none;
-		padding: 5px;
-		border: 2px solid DarkSlateGray;
-		border-radius: 4px; 
-		margin-right: 20px;
-	}
-
-}
