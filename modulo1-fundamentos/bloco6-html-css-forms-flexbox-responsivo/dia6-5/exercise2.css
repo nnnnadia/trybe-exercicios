@@ -43,3 +43,15 @@ nav ul li {
 	.container .aside-two {
 		order: -1;
 	}
+}
+
+@media screen and (min-width: 769px) and (max-width: 1440px) {
+	.container-aside {
+		display: flex;
+		justify-content: space-evenly;
+	}
+
+	.container > * {
+		margin: 15px 40px;
+	}
+}
