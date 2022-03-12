@@ -55,3 +55,24 @@ nav ul li {
 		margin: 15px 40px;
 	}
 }
+
+@media screen and (min-width: 1441px) {
+	.container {
+		display: flex;
+		flex-flow: row wrap;
+		justify-content: space-around;
+	}
+
+	header, footer {
+		width: 100%;
+		margin: 60px
+	}
+
+	.container-aside {
+		max-width: 25%;
+	}
+
+	.main-content {
+		max-width: 60%;
+	}
+}
