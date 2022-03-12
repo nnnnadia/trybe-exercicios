@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Click Count</title>
+</head>
+<body>
+  <main>
+    <button id="click-me">Click Me</button>
+    <p>Ouch #<span id="counter"></span></p>
+  </main>
+  <script>
+    const clickMe = document.querySelector('#click-me');
+    const counterElement = document.querySelector('#counter');
+    let counterNumber = 0;
+    clickMe.addEventListener('click', () => {
+      counterNumber += 1;
+      counterElement.innerText = counterNumber;
+    });
+  </script>
+</body>
+</html>
