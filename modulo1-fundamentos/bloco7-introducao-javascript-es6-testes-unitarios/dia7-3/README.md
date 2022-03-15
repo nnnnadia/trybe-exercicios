@@ -56,11 +56,9 @@ sudo apt install npm
 # na pasta do projeto vamos criar o package.json
 npm init -y
 Wrote to /project/file/path/package.json:
-```
-```json package.json
 {
-  "name": "teset",
-  "version": "1.0.0",
+  "name": "nomeDaPasta", # nome da pasta onde foi criado
+  "version": "1.0.0", #versão atual do projeto
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -70,8 +68,21 @@ Wrote to /project/file/path/package.json:
   "author": "",
   "license": "ISC"
 }
+```
+No `package.json` mudar o valor de "test"
+```json package.json
+"scripts": {
+    "test": "jest"
+  },
 
-
+```
+Agora vamos instalar o Jest de fato, os pacotes serão instalados como dependências de desenvolvimento.
+```shell
+npm install --save-dev jest
+```
+Lembre de incluir um `.gitignore`:
+```
+node_modules
 ```
 
 ### Recursos Externos
