@@ -22,4 +22,6 @@ Um teste unitário age sobre uma unidade funcional. O objetivo é prever e entã
 3) Refatorar: Melhorar o código de forma que ele não volte a não passar no teste.
 4) Repeat.
 
+### [Documentações e Referências](Z-conteudo-recursos/docs-e-refs.md#ducumenta%C3%A7%C3%B5es)
+
 ##### [Voltar](https://github.com/nnnnadia/trybe-exercicios#bloco-7-introdu%C3%A7%C3%A3o-%C3%A0-javascript-es6-e-testes-unit%C3%A1rios)
