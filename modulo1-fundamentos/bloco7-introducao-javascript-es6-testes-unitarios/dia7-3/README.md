@@ -28,10 +28,12 @@ Não é tão robusta quanto o Jest que nós vamos nos aprofundar a seguir, mas c
 
 O assert é uma expressão booleana que retorna falso quando há um erro
 
-<pre><code>const assert = require('assert'); // Sintaxe para incluir o módulo assert
+~~~javascript
+const assert = require('assert'); // Sintaxe para incluir o módulo assert
 
 assert.strictEqual(50, 50); // Sem erros: 50 === 50
-assert.strictEqual(50, 70); // AssertionError: 50 !== 70</code></pre>
+assert.strictEqual(50, 70); // AssertionError: 50 !== 70
+~~~
 > Código retirado do Course da Trybe
 
 ### Jest
@@ -41,8 +43,36 @@ A grande vantagem do Jest é que ele não interrompe a execução quando um test
 Mesmo com os testes anteriores não passando é possível continuar trabalhando em novos testes e você tem conhecimento se alguma nova implementação causa falhas em outras áreas do código.
 
 Com outras ferramentas seria preciso editar o código comentando ou removendo testes para pular.
-- O Jest não requer instalação.
+- O Jest não requer instalação. (quase nenhuma)
 - Se integra muito bem com o React, que já vem com o Jest instalado.
+
+#### Instalando o Jest
+```shell Terminal
+# conferir se o npm está instalado e instalar se não estiver
+npm -v
+sudo apt update
+sudo apt install npm
+
+# na pasta do projeto vamos criar o package.json
+npm init -y
+Wrote to /project/file/path/package.json:
+```
+```json package.json
+{
+  "name": "teset",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
+
+
+```
 
 ### Recursos Externos
 
