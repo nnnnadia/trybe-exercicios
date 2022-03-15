@@ -16,3 +16,5 @@ Um teste unitário age sobre uma unidade funcional. O objetivo é prever e entã
 
 ![Diagrama do TDD](images/diagramatdd.png)
 > Ciclo TDD - inspirado no artigo de Kent Dodds - imagem retirada do Course da Trybe
+
+##### [Voltar](https://github.com/nnnnadia/trybe-exercicios#bloco-7-introdu%C3%A7%C3%A3o-%C3%A0-javascript-es6-e-testes-unit%C3%A1rios)
