@@ -1,94 +1,26 @@
 ## 7.3: JavaScript ES6 - Fluxos de exceção e Objetos
 
-### As três dimensões de qualidade
-- Confiança: Resistência a falhas, um programa que não quebra com qualquer erro.
-- Funcionalidade: O programa entrega o que é proposto.
-- Performance: Bom rendimento e desempenho quando volume de processamento é alto.
+### 1) [Testes Unitários](Z-conteudo-recursos/testes-unitarios.md)
+  - #### As três dimensões de qualidade
+  - #### Testes unitários
 
-### Testes unitários
+### 2) [Testando em Pequenos Passos](Z-conteudo-recursos/testando-em-pequenos-passos.md)
+  - #### TDD: Test Driven Development
 
-> Como definido no Course da Trybe:
-> "(...) entende-se como **unidade funcional** qualquer porção de código que, através de algum estímulo, seja capaz de gerar um comportamento esperado."
+### 3) [NodeJS Assert](Z-conteudo-recursos/nodejs-assert.md)
+  - #### Módulo Assert
 
-Um teste unitário age sobre uma unidade funcional. O objetivo é prever e então prevenir possíveis erros que podem ser causadas por alterações do que é *esperado*.
+### 4) [Introdução ao Jest](Z-conteudo-recursos/introducao-ao-jest.md)
+  - #### Por que usar?
+  - #### Instalando o Jest
 
-### TDD: Test Driven Development
+### 5) [Escrevendo Testes](Z-conteudo-recursos/escrevendo-testes.md)
+  - #### Estrutura básica de um teste
+  - #### Criando um arquivo de teste separado
 
-![Diagrama do TDD](Z-conteudo-recursos/diagramatdd.png)
-> Ciclo TDD - inspirado no artigo de Kent Dodds - imagem retirada do Course da Trybe
-
-1) Teste falha: escreva um teste para cobrir uma futura função - este teste irá falhar.
-2) Teste passa: Implementar uma função que faça o necessário para passar no teste criado.
-3) Refatorar: Melhorar o código de forma que ele não volte a não passar no teste.
-4) Repeat.
-
-### NodeJS Assert
-
-Não é tão robusta quanto o Jest que nós vamos nos aprofundar a seguir, mas como a ferramenta que já vem instalada com o NodeJS, vale a pena conferir [:page_facing_up:](#documentações):point_left:
-
-O assert é uma expressão booleana que retorna falso quando há um erro
-
-~~~javascript
-const assert = require('assert'); // Sintaxe para incluir o módulo assert
-
-assert.strictEqual(50, 50); // Sem erros: 50 === 50
-assert.strictEqual(50, 70); // AssertionError: 50 !== 70
-~~~
-> Código retirado do Course da Trybe
-
-### Jest
-
-A grande vantagem do Jest é que ele não interrompe a execução quando um teste falha.
-
-Mesmo com os testes anteriores não passando é possível continuar trabalhando em novos testes e você tem conhecimento se alguma nova implementação causa falhas em outras áreas do código.
-
-Com outras ferramentas seria preciso editar o código comentando ou removendo testes para pular.
-- O Jest não requer instalação. (quase nenhuma)
-- Se integra muito bem com o React, que já vem com o Jest instalado.
-
-#### Instalando o Jest
-```shell Terminal
-# conferir se o npm está instalado e instalar se não estiver
-npm -v
-sudo apt update
-sudo apt install npm
-
-# na pasta do projeto vamos criar o package.json
-npm init -y
-Wrote to /project/file/path/package.json:
-{
-  "name": "nomeDaPasta", # nome da pasta onde foi criado
-  "version": "1.0.0", #versão atual do projeto
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
-}
-```
-No `package.json` mudar o valor de "test"
-```json package.json
-"scripts": {
-    "test": "jest"
-  },
-
-```
-Agora vamos instalar o Jest de fato, os pacotes serão instalados como dependências de desenvolvimento.
-```shell
-npm install --save-dev jest
-```
-Lembre de incluir um `.gitignore`:
-```
-node_modules
-```
-
-### Recursos Externos
-
-#### Documentações
-- [Node.js/Assert](https://nodejs.org/api/assert.html) [:arrow_double_up:](#nodejs-assert)
+### 6) Recursos Externos
+  - #### Documentações
+    - [Node.js/Assert](https://nodejs.org/api/assert.html) [:rewind:](Z-conteudo-recursos/nodejs-assert.md#nodejs-assert)
 
 #### Referências
 - [Trybe](https://www.betrybe.com/)
