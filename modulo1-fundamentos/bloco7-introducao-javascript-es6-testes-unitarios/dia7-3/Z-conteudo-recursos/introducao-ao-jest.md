@@ -47,3 +47,7 @@ Lembre de incluir um `.gitignore`:
 ~~~
 node_modules
 ~~~
+
+#### [:arrow_left: NodeJS Assert](./nodejs-assert.md#nodejs-assert) | [Escrevendo Testes :arrow_right:](./escrevendo-testes.md#escrevendo-testes)
+
+#### [:date: Voltar para o dia 7.3](../README.md#73-javascript-es6---fluxos-de-exceção-e-objetos)
