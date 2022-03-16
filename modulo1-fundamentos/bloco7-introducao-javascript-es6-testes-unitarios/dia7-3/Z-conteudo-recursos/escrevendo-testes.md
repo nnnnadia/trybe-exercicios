@@ -34,6 +34,6 @@ test('sums two values', () => {
    - #### [loginValidation.js](../A-escrevendo-testes/loginValidation.js)
    - #### [loginValidation.test.js](../A-escrevendo-testes/loginValidation.test.js)
 
-#### [:arrow_left: Introdução ao Jest :arrow_right:](./introducao-ao-jest.md#introdução-ao-jest) | [ :arrow_right:](.)
+#### [:arrow_left: Introdução ao Jest](./introducao-ao-jest.md#introdução-ao-jest) | [Expect e Matchers :arrow_right:](./expect-e-matchers.md#expect-e-matchers)
 
 #### [:date: Voltar para o dia 7.3](../README.md#73-javascript-es6---fluxos-de-exceção-e-objetos)
