@@ -24,6 +24,6 @@ Confira mais detalhes [:page_facing_up:](../README.md#documentações):point_lef
 
 \* This matcher also accepts others iterables such as strings, sets, node lists and HTML collections.
 
-#### [:arrow_left: Escrevendo Testes](./escrevendo-testes.md#escrevendo-testes) | [ :arrow_right:](.)
+#### [:arrow_left: Escrevendo Testes](./escrevendo-testes.md#escrevendo-testes) | [O Bloco Describe :arrow_right:](./o-bloco-describe.md#o-bloco-describe)
 
 #### [:date: Voltar para o dia 7.3](../README.md#73-javascript-es6---fluxos-de-exceção-e-objetos)
