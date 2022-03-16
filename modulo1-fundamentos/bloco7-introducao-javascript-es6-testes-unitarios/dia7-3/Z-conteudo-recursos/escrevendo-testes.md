@@ -33,3 +33,7 @@ test('sums two values', () => {
 ### Exercícios
    - #### [loginValidation.js](../A-escrevendo-testes/loginValidation.js)
    - #### [loginValidation.test.js](../A-escrevendo-testes/loginValidation.test.js)
+
+#### [:arrow_left: Introdução ao Jest :arrow_right:](./introducao-ao-jest.md#introdução-ao-jest) | [ :arrow_right:](.)
+
+#### [:date: Voltar para o dia 7.3](../README.md#73-javascript-es6---fluxos-de-exceção-e-objetos)
