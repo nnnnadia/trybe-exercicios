@@ -18,32 +18,14 @@
   - #### Estrutura básica de um teste
   - #### Criando um arquivo de teste separado
 
-### 6) [Expect e Matchers]()
-
-### Definições
-Como definido no Course da Trybe:
-> "A função expect é utilizada para dar acesso a um conjunto de métodos chamados matchers. (...) Podemos pensar neles como uma ponte que dita qual é a relação entre o resultado que temos e o que queremos."
-
-Uma *expectation* é o objeto retornado pela função expect(), sobre ele será chamado o *matcher*.
-
-### Resumindo
-
-| Tipo de Dado | Matchers | Descrição |
-| --- | --- | --- |
-| value e typeOf | toBe(value) | testa a igualdade estrita (o famoso === no JavaScript) |
-| value | toEqual(value) | objetos porém não podem ser comparados como os tipos primitivos, então é mais apropriado o uso do toEqual() quando comparar valores de arrays e objetos |
-| boolean | toBeNull() <br> toBeDefined() <br> toBeUndefined() <br> toBeTruthy() <br> toBeFalsy() <br> | corresponde a apenas `null` <br> corresponde a apenas `undefined` <br> oposto de `toBeUndefined` <br> qualquer coisa que uma instrução `if` trata como verdadeiro <br> qualquer coisa que uma instrução `if` trata como falso |
-| numbers | toBeGreaterThan(number) <br> toBeGreaterThanOrEqual(number) <br> toBeLessThan(number) <br> toBeLessThanOrEqual(number) <br> toBe(value) <br> toEqual(value) | `>` <br> `>=` <br> `<` <br> `<=` <br> <br> <br> |
-| string | toMatch(regexp \| string) | RegExp: `.toMatch(\exemplo\)` <br> String: `.toMatch('exemplo')` |
-| match | data | def |
-| match | data | def |
-| match | data | def |
-| match | data | def |
+### 6) [Expect e Matchers](Z-conteudo-recursos/expect-e-matchers.md#expect-e-matchers)
+  - #### Definições
+  - #### Resumindo
 
 ### 7) Recursos Externos
   - #### Documentações
     - [Node.js/Assert](https://nodejs.org/api/assert.html) [:rewind:](Z-conteudo-recursos/nodejs-assert.md#nodejs-assert)
-    - [Jest/Expect](https://jestjs.io/docs/expect)
+    - [Jest/Expect](https://jestjs.io/docs/expect) [:rewind:](Z-conteudo-recursos/expect-e-matchers.md#expect-e-matchers)
 
 #### Referências
 - [Trybe](https://www.betrybe.com/)
