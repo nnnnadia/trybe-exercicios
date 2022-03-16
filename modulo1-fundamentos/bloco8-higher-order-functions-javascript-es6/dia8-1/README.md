@@ -1,14 +1,20 @@
 ## 8.1: JavaScript ES6 - Introdução a Higher Order Functions
 
 ### 1) [Por que isso é importante?](Z-conteudo-recursos/por-que-isso-importante.md#por-que-isso-é-importante)
+- Introdução
+- As 7 principais regras do Clean Code
 
-### 2) []()
-- 
+### 2) [First-Class Functions](Z-conteudo-recursos/first-class-functions.md#first-class-functions)
+- Definição
 
-### X) Recursos Externos
+### 3) [Higher Order Functions](Z-conteudo-recursos/higher-order-functions.md#higher-order-functions)
+- Definição
+- Estruturando uma HOF
+
+### 4) Recursos Externos
 
 #### Documentações
-- []()
+- [MDN/Função First-class](https://developer.mozilla.org/pt-BR/docs/Glossary/First-class_Function)
 
 #### Referências
 - [Trybe](https://www.betrybe.com/)
