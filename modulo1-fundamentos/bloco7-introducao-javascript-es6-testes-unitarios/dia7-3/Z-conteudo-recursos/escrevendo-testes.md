@@ -2,7 +2,7 @@
 
 ### Estrutura básica de um teste
 
-`sum.js`:
+`sum.test.js`:
 ~~~javascript
 const sum = (a, b) => a + b;
 
