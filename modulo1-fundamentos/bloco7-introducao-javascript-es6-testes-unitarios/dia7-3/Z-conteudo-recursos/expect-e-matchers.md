@@ -8,7 +8,7 @@ Uma *expectation* é o objeto retornado pela função expect(), sobre ele será 
 
 ### Resumindo
 
-Confira mais detalhes [:page_facing_up:](../README.md#documentações):point_left:
+Confira mais detalhes [:page_facing_up:](https://jestjs.io/docs/expect):point_left:
 
 | Tipo de Dado | Matchers | Descrição |
 | --- | --- | --- |
