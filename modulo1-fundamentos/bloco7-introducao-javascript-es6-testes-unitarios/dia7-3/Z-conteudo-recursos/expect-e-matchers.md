@@ -8,6 +8,8 @@ Uma *expectation* é o objeto retornado pela função expect(), sobre ele será 
 
 ### Resumindo
 
+Confira mais detalhes [:page_facing_up:](../README.md#documentações):point_left:
+
 | Tipo de Dado | Matchers | Descrição |
 | --- | --- | --- |
 | value e typeOf | toBe(value) | testa a igualdade estrita (o famoso === no JavaScript) |
@@ -21,3 +23,7 @@ Uma *expectation* é o objeto retornado pela função expect(), sobre ele será 
 | negation | not | permite testar o oposto de algo |
 
 \* This matcher also accepts others iterables such as strings, sets, node lists and HTML collections.
+
+#### [:arrow_left: Escrevendo Testes](./escrevendo-testes.md#escrevendo-testes) | [ :arrow_right:](.)
+
+#### [:date: Voltar para o dia 7.3](../README.md#73-javascript-es6---fluxos-de-exceção-e-objetos)
