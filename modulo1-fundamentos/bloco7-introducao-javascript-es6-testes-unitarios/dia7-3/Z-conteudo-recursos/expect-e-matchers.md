@@ -12,7 +12,7 @@ Confira mais detalhes [:page_facing_up:](https://jestjs.io/docs/expect):point_le
 
 | Tipo de Dado | Matchers | Descrição |
 | --- | --- | --- |
-| value e typeOf | toBe(value) | testa a igualdade estrita (o famoso === no JavaScript) |
+| value e typeof | toBe(value) | testa a igualdade estrita (o famoso === no JavaScript) |
 | value | toEqual(value) | objetos porém não podem ser comparados como os tipos primitivos, então é mais apropriado o uso do toEqual() quando comparar valores de arrays e objetos |
 | boolean | toBeNull() <br> toBeDefined() <br> toBeUndefined() <br> toBeTruthy() <br> toBeFalsy() <br> | corresponde a apenas `null` <br> corresponde a apenas `undefined` <br> oposto de `toBeUndefined` <br> qualquer coisa que uma instrução `if` trata como verdadeiro <br> qualquer coisa que uma instrução `if` trata como falso |
 | numbers | toBeGreaterThan(number) <br> toBeGreaterThanOrEqual(number) <br> toBeLessThan(number) <br> toBeLessThanOrEqual(number) <br> toBe(value) <br> toEqual(value) | `>` <br> `>=` <br> `<` <br> `<=` <br> <br> <br> |
