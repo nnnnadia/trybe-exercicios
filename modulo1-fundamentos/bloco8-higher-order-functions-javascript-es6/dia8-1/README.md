@@ -10,6 +10,7 @@
 ### 3) [Higher Order Functions](Z-conteudo-recursos/higher-order-functions.md#higher-order-functions)
 - Definição
 - Estruturando uma HOF
+- Exercícios
 
 ### 4) Recursos Externos
 
