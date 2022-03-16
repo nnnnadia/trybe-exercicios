@@ -2,7 +2,7 @@
 
 ### Módulo Assert
 
-Não é tão robusta quanto o Jest que nós vamos nos aprofundar a seguir, mas como a ferramenta já vem instalada com o NodeJS, vale a pena conferir [:page_facing_up:](../README.md#documentações):point_left:
+Não é tão robusta quanto o Jest que nós vamos nos aprofundar a seguir, mas como a ferramenta já vem instalada com o NodeJS, vale a pena conferir [:page_facing_up:](https://nodejs.org/api/assert.html):point_left:
 
 O assert é uma expressão booleana que retorna falso quando há um erro
 
