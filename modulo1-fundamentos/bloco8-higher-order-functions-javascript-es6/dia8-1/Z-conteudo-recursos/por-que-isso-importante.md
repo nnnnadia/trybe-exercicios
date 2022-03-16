@@ -13,3 +13,7 @@ O uso das HOFs é fundamental para a prática da programação chamada *Clean Co
  - Cuidado com os comentários.
  - Realizar o tratamento de erros.
  - Executar testes limpos.
+
+#### [First-Class Functions :arrow_right:](./first-class-functions.md#first-class-functions)
+
+#### [:date: Voltar para o dia 8.1](../README.md#81-javascript-es6---introdução-a-higher-order-functions)
