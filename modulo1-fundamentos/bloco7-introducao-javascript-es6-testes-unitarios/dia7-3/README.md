@@ -30,8 +30,8 @@
 ### 8) Recursos Externos
 
 #### Documentações
-- [Node.js/Assert](https://nodejs.org/api/assert.html) [:rewind:](Z-conteudo-recursos/nodejs-assert.md#nodejs-assert)
-- [Jest/Expect](https://jestjs.io/docs/expect) [:rewind:](Z-conteudo-recursos/expect-e-matchers.md#expect-e-matchers)
+- [Node.js/Assert](https://nodejs.org/api/assert.html)
+- [Jest/Expect](https://jestjs.io/docs/expect)
 
 #### Referências
 - [Trybe](https://www.betrybe.com/)
