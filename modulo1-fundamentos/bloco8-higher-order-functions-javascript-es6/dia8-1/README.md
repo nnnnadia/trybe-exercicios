@@ -12,7 +12,12 @@
 - Estruturando uma HOF
 - Exercícios
 
-### 4) Recursos Externos
+### 4) Agora a Prática
+- [emailCorporativo.js](X-agora-a-pratica/emailCorporativo.js)
+- [sorteio.js](X-agora-a-pratica/sorteio.js)
+- [gabarito.js](X-agora-a-pratica/gabarito.js)
+
+### 5) Recursos Externos
 
 #### Documentações
 - [MDN/Função First-class](https://developer.mozilla.org/pt-BR/docs/Glossary/First-class_Function)
