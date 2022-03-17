@@ -28,7 +28,9 @@ arr.find((element [, index [, array]]) => {
 ~~~
 
 ### Exercícios
-- []()
+- [findDivisibleBy3And5.js](../B-array-find/findDivisibleBy3And5.js)
+- [findNameWithFiveLetters.js](../B-array-find/findNameWithFiveLetters.js)
+- [findMusic.js](../B-array-find/findMusic.js)
 
 #### [:arrow_left: Array.forEach()](./array-foreach.md#arrayforeach) | [Array.some() e Array.every() :arrow_right:](./array-some-array-every.md#arraysome-e-arrayevery)
 
