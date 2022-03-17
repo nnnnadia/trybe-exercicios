@@ -16,7 +16,7 @@
 - Sintaxe
 - Exercícios
 
-### 5) [Array.sort()]()
+### 5) [Array.sort()](Z-conteudo-recursos/array-sort.md#arraysort)
 - Sintaxe
 - Exercícios
 
