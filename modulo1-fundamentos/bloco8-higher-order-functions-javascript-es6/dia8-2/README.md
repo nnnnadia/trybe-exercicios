@@ -8,18 +8,22 @@
 - Sintaxe
 - Exercícios
 
-### 3) [Array.some() e Array.every()]()
+### 3) [Array.some()](Z-conteudo-recursos/array-some.md#arraysome)
 - Sintaxe
 - Exercícios
 
-### 4) [Array.sort()]()
+### 4) [Array.every()](Z-conteudo-recursos/array-every.md#arrayevery)
 - Sintaxe
 - Exercícios
 
-### 5) [Exercícios]()
+### 5) [Array.sort()]()
+- Sintaxe
+- Exercícios
+
+### 6) [Exercícios]()
 - Agora a prática
 
-### 6) Recursos Externos
+### 7) Recursos Externos
 
 #### Documentações
 - [MDN/Array](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Array)
