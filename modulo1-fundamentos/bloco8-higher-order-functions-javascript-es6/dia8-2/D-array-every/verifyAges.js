@@ -1,5 +1,5 @@
 const people = [
-  { name: 'Mateus', age: 18 },
+  { name: 'Mateus', age: 19 },
   { name: 'José', age: 16 },
   { name: 'Ana', age: 23 },
   { name: 'Cláudia', age: 20 },
@@ -7,7 +7,7 @@ const people = [
 ];
 
 const verifyAges = (arr, minimumAge) => {
-  //Adicione seu código aqui
+  return arr.every(item => item.age >= minimumAge);
 }
 
 console.log(verifyAges(people, 18));
