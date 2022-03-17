@@ -1,3 +1,5 @@
+## Array.forEach()
+
 ### Sintaxe
 De acordo com a documentação do MDN [:page_facing_up:](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach):point_left::
 > ~~~javascript
@@ -26,9 +28,8 @@ arr.forEach((currentValue [, index [, array]]) => {
 ~~~
 
 ### Exercícios
- - [sendEmails.js](A-array-foreach/sendEmails.js)
+- [sendEmails.js](../A-array-foreach/sendEmails.js)
 
-
-[ :arrow_right:]()
+[Array.find() :arrow_right:](./array-find.md)
 
 #### [:date: Voltar para o dia 8.2](../README.md#82-javascript-es6---higher-order-functions---foreach-find-some-every-sort)
