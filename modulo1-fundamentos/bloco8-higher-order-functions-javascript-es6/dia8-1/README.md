@@ -23,6 +23,7 @@
 
 #### Documentações
 - [MDN/Função First-class](https://developer.mozilla.org/pt-BR/docs/Glossary/First-class_Function)
+- [MDN/Função Callback](https://developer.mozilla.org/pt-BR/docs/Glossary/Callback_function)
 
 #### Referências
 - [Trybe](https://www.betrybe.com/)
