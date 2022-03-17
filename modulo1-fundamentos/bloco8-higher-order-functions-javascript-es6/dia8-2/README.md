@@ -1,7 +1,8 @@
 ## 8.2: JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort
 
-### 1) []()
-- 
+### 1) [Array.forEach()](Z-conteudo-recursos/array-foreach.md)
+- Sintaxe
+- Exercícios
 
 ### X) Recursos Externos
 
