@@ -31,8 +31,8 @@ test('sums two values', () => {
 > Código retirado do Course da Trybe.
 
 ### Exercícios
-   - #### [loginValidation.js](../A-escrevendo-testes/loginValidation.js)
-   - #### [loginValidation.test.js](../A-escrevendo-testes/loginValidation.test.js)
+- [loginValidation.js](../A-escrevendo-testes/loginValidation.js)
+- [loginValidation.test.js](../A-escrevendo-testes/loginValidation.test.js)
 
 #### [:arrow_left: Introdução ao Jest](./introducao-ao-jest.md#introdução-ao-jest) | [Expect e Matchers :arrow_right:](./expect-e-matchers.md#expect-e-matchers)
 
