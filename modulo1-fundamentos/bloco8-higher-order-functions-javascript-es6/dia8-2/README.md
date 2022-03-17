@@ -6,7 +6,7 @@
 ### X) Recursos Externos
 
 #### Documentações
-- []()
+- [MDN/Array](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Array)
 
 #### Referências
 - [Trybe](https://www.betrybe.com/)
