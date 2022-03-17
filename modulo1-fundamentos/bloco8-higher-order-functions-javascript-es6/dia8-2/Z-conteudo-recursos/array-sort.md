@@ -8,9 +8,9 @@ De acordo com a documentação do MDN [:page_facing_up:](https://developer.mozil
 > #### Parâmetros
 > - `funcaoDeComparacao`(opcional): <br>
 > Especifica uma função que define a ordenação. Se omitido, o array é ordenado de acordo com a pontuação de código Unicode de cada um dos caracteres, de acordo com a conversão de cada elemento para string.
-> 	- `primeiroElemento`(obrigatório): <br>
+> 	- `primeiroElemento`: <br>
 > 	O primeiro elemento para a comparação.
-> 	- `segundoElemento` (opcional): <br>
+> 	- `segundoElemento`: <br>
 > 	O segundo elemento para comparação.
 > #### Valor retornado
 > O array ordenado. Note que o array é ordenado de acordo com a pontuação de código Unicode de cada um dos caracteres, e nenhuma cópia é feita.
