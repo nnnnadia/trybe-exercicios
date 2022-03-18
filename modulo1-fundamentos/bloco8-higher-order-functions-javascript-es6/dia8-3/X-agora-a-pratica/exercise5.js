@@ -69,5 +69,6 @@ const expectedResult = [
 ];
 
 function fantasyOrScienceFictionAuthors() {
-  // escreva seu código aqui
+  const listAuthorName = books.filter(book => book.genre === 'Fantasia' || book.genre === 'Ficção Científica');
+  return listAuthorName.map(book => `${book.author.name}`).sort();
 }
