@@ -31,4 +31,6 @@
 #### Referências
 - [Trybe](https://www.betrybe.com/)
 
+##
+
 ##### [Voltar](https://github.com/nnnnadia/trybe-exercicios#bloco-8-higher-order-functions-do-javascript-es6)
