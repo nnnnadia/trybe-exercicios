@@ -18,6 +18,6 @@ De acordo com a documentação do MDN [:page_facing_up:](https://developer.mozil
 ### Exercícios
 - [verifyAges.js](../E-array-sort/orderPeople.js)
 
-#### [:arrow_left: Array.every()](./array-every.md#arrayevery)
+#### [:arrow_left: Array.every()](./array-every.md#arrayevery) | [Exercícios :arrow_right:](../X-agora-a-pratica/exercicios.md#exercicios)
 
 #### [:date: Voltar para o dia 8.2](../README.md#82-javascript-es6---higher-order-functions---foreach-find-some-every-sort)
