@@ -29,6 +29,6 @@ arr.map((element [, index [, array]]) => {
 
 ##
 
-#### [:arrow_left: Array.filter()](./array-filter.md#arrayfilter)
+#### [:arrow_left: Array.filter()](./array-filter.md#arrayfilter) | [Exercícios :arrow_right:](../X-agora-a-pratica/exercicios.md#exercicios)
 
 #### [:date: Voltar para o dia 8.3](../README.md#javascript-es6---higher-order-functions---map-e-filter)
