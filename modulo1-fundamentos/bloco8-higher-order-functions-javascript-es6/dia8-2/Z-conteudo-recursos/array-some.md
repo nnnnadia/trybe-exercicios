@@ -30,6 +30,8 @@ arr.some((element [, index [, array]]]) => {
 ### Exercícios
 - [hasName.js](../C-array-some/hasName.js)
 
+##
+
 #### [:arrow_left: Array.find()](./array-find.md#arrayfind) | [Array.every() :arrow_right:](./array-every.md#arrayevery)
 
 #### [:date: Voltar para o dia 8.2](../README.md#82-javascript-es6---higher-order-functions---foreach-find-some-every-sort)
