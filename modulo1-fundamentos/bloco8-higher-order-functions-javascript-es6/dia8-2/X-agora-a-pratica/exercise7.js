@@ -64,5 +64,11 @@ const books = [
 const expectedResult = false;
 
 function authorUnique() {
-  // escreva seu código aqui
+  return books.every(book => {
+    books.forEach(comp => {
+      if(comp !== book && comp.author.birthYear === book.author.birthYear){
+        return false;
+      }
+    })
+  })
 }
