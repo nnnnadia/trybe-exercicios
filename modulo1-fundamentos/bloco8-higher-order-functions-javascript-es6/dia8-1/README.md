@@ -26,4 +26,6 @@
 - [[Blog Trybe] Clean code: o que é, porque usar e principais regras!](https://blog.betrybe.com/tecnologia/clean-code/)
 - MARTIN, Robert C. - Clean Code: A Handbook of Agile Software Craftsmanship
 
+##
+
 ##### [Voltar](https://github.com/nnnnadia/trybe-exercicios#bloco-8-higher-order-functions-do-javascript-es6)
