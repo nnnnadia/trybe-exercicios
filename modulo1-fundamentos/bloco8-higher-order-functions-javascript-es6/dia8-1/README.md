@@ -12,12 +12,8 @@
 - Estruturando uma HOF
 - Exercícios
 
-### 4) Exercícios
-
-#### Agora a Prática
-- [emailCorporativo.js](X-agora-a-pratica/emailCorporativo.js)
-- [sorteio.js](X-agora-a-pratica/sorteio.js)
-- [gabarito.js](X-agora-a-pratica/gabarito.js)
+### 4) [Exercícios](X-agora-a-pratica/exercicios.md#exercícios)
+- Agora a Prática
 
 ### 5) Recursos Externos
 
