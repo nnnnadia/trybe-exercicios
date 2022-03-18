@@ -1,13 +1,17 @@
 ## JavaScript ES6 - Higher Order Functions - map e filter
 
-### 1) [Array.()](Z-conteudo-recursos/)
+### 1) [Array.filter()](Z-conteudo-recursos/array-filter.md#arrayfilter)
 - Sintaxe
 - Exercícios
 
-### ) [Exercícios](X-agora-a-pratica/exercicios.md)
+### 2) [Array.map()](Z-conteudo-recursos/array-map.md#arraymap)
+- Sintaxe
+- Exercícios
+
+### 3) [Exercícios](X-agora-a-pratica/exercicios.md)
 - Agora a prática
 
-### ) Recursos Externos
+### 4) Recursos Externos
 
 #### Documentações
 - [MDN/Array](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Array)
