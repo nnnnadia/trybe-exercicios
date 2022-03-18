@@ -10,6 +10,8 @@
 3) Refatorar: Melhorar o código de forma que ele não volte a não passar no teste.
 4) Repeat.
 
+##
+
 #### [:arrow_left: Testes Unitários](./testes-unitarios.md#testes-unitários) | [NodeJS Assert :arrow_right:](./nodejs-assert.md#nodejs-assert)
 
 #### [:date: Voltar para o dia 7.3](../README.md#73-javascript-es6---fluxos-de-exceção-e-objetos)
