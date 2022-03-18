@@ -20,7 +20,7 @@
 - Sintaxe
 - Exercícios
 
-### 6) [Exercícios]()
+### 6) [Exercícios](X-agora-a-pratica/exercicios.md)
 - Agora a prática
 
 ### 7) Recursos Externos
