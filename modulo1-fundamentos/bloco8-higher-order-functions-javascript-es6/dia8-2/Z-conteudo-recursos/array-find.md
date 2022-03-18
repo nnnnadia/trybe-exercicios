@@ -32,6 +32,8 @@ arr.find((element [, index [, array]]) => {
 - [findNameWithFiveLetters.js](../B-array-find/findNameWithFiveLetters.js)
 - [findMusic.js](../B-array-find/findMusic.js)
 
+##
+
 #### [:arrow_left: Array.forEach()](./array-foreach.md#arrayforeach) | [Array.some() :arrow_right:](./array-some.md#arraysome)
 
 #### [:date: Voltar para o dia 8.2](../README.md#82-javascript-es6---higher-order-functions---foreach-find-some-every-sort)
