@@ -49,6 +49,6 @@ console.log(numberGenerator);
 ### Exercícios
 - [doingThings.js](../A-estruturando-uma-hof/doingThings.js)
 
-#### [:arrow_left: First-Class Functions](./first-class-functions.md#first-class-functions) | [ :arrow_right:]()
+#### [:arrow_left: First-Class Functions](./first-class-functions.md#first-class-functions) | [Exercícios :arrow_right:](../X-agora-a-pratica/exercicios.md#exercícios)
 
 #### [:date: Voltar para o dia 8.1](../README.md#81-javascript-es6---introdução-a-higher-order-functions)
