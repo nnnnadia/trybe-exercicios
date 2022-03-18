@@ -14,6 +14,7 @@ assert.strictEqual(50, 70); // AssertionError: 50 !== 70
 ~~~
 > Código retirado do Course da Trybe.
 
+##
 
 #### [:arrow_left: Testando em Pequenos Passos](./testando-em-pequenos-passos.md#testando-em-pequenos-passos) | [Introdução ao Jest :arrow_right:](./introducao-ao-jest.md#introdução-ao-jest)
 
