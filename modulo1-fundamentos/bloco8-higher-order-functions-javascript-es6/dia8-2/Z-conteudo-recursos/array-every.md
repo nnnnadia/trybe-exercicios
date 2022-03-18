@@ -30,6 +30,8 @@ arr.every((element [, index [, array]]) => {
 ### Exercícios
 - [verifyAges.js](../D-array-every/verifyAges.js)
 
+##
+
 #### [:arrow_left: Array.some()](./array-some.md#arraysome) | [Array.sort() :arrow_right:](./array-sort.md#arraysort)
 
 #### [:date: Voltar para o dia 8.2](../README.md#82-javascript-es6---higher-order-functions---foreach-find-some-every-sort)
