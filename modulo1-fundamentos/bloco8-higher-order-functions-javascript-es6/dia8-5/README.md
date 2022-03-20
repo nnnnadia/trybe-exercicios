@@ -1,7 +1,8 @@
 ## JavaScript ES6 - spread operator, parâmetro rest, destructuring e mais
 
-### 1) [](Z-conteudo-recursos/array-reduce.md#arrayreduce)
-- 
+### 1) [Spread Operator](Z-conteudo-recursos/spread-operator.md#spread-operator)
+- Sintaxe
+- Exercícios
 
 ### ) [Exercícios](X-agora-a-pratica/exercicios.md#exercícios)
 - Agora a prática
