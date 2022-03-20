@@ -2,6 +2,7 @@
 
 ### 1) [Array.reduce()](Z-conteudo-recursos/array-reduce.md#arrayreduce)
 - Sintaxe
+- Exercícios
 
 ### 2) [Exercícios](X-agora-a-pratica/exercicios.md)
 - Agora a prática
