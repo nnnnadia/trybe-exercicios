@@ -23,6 +23,10 @@ arr.forEach( acumulador, valorAtual[, index[, array]] )[, valorInicial]) => {
 });
 ~~~
 
+### Exercícios
+- [sumAllEven.js](../A-array-reduce/sumAllEven.js)
+- [getBestSubject.js](../A-array-reduce/getBestSubject.js)
+
 ##
 
 #### [Exercícios :arrow_right:](./exercicios.md#exercicios)
