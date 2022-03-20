@@ -4,7 +4,7 @@
 - Sintaxe
 - Exercícios
 
-### 2) [Exercícios](X-agora-a-pratica/exercicios.md)
+### 2) [Exercícios](X-agora-a-pratica/exercicios.md#exercícios)
 - Agora a prática
 
 ### 4) Recursos Externos
