@@ -73,7 +73,7 @@ O programa conta com mais de 1500 horas de aulas presenciais e online, aborda in
 - [ ] 8.1: _[JavaScript ES6 - Introdução a Higher Order Functions](modulo1-fundamentos/bloco8-higher-order-functions-javascript-es6/dia8-1#81-javascript-es6---introdução-a-higher-order-functions)_
 - [x] 8.2: _[JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort](modulo1-fundamentos/bloco8-higher-order-functions-javascript-es6/dia8-2#82-javascript-es6---higher-order-functions---foreach-find-some-every-sort)_
 - [x] 8.3: _[JavaScript ES6 - Higher Order Functions - map e filter](modulo1-fundamentos/bloco8-higher-order-functions-javascript-es6/dia8-3/README.md#javascript-es6---higher-order-functions---map-e-filter)_
-- [ ] 8.4: _[JavaScript ES6 - Higher Order Functions - reduce](modulo1-fundamentos/bloco8-higher-order-functions-javascript-es6/dia8-4#javascript-es6---higher-order-functions---reduce)_
+- [x] 8.4: _[JavaScript ES6 - Higher Order Functions - reduce](modulo1-fundamentos/bloco8-higher-order-functions-javascript-es6/dia8-4#javascript-es6---higher-order-functions---reduce)_
 - [ ] 8.5: _JavaScript ES6 - spread operator, parâmetro rest, destructing e mais_
 - [ ] 8.6: _Projeto - Zoo functions_
 
