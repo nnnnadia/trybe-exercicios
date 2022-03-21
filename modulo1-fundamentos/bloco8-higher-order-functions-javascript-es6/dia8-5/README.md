@@ -14,9 +14,11 @@
 
 #### Documentações
 - [MDN/Sintaxe de Espalhamento](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Operators/Spread_syntax)
+- [MDN/Parâmetro Rest](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/rest_parameters)
 
 #### Referências
 - [Trybe](https://www.betrybe.com/)
+- [Wikipedia/Variadic Function](https://en.wikipedia.org/wiki/Variadic_function)
 
 ##
 
