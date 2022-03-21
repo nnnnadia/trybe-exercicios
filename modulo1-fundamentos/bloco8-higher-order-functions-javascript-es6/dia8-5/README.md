@@ -7,6 +7,10 @@
 ### 2) [Parâmetro Rest](Z-conteudo-recursos/parametro-rest.md#parâmetro-rest)
 - Sintaxe
 
+### 3) [Object Destructuring](Z-conteudo-recursos/object-destructuring.md#object-destructuring)
+- Sintaxe
+- Exercícios
+
 ### ) [Exercícios](X-agora-a-pratica/exercicios.md#exercícios)
 - Agora a prática
 
