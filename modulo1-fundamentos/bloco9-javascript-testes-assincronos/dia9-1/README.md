@@ -5,7 +5,10 @@
 ### 2) [Callbacks](Z-conteudo-recursos/callbacks.md)
 - Exercícios
 
-### 7) Recursos Externos
+### 3) [Lidando com erros em operações assíncronas](Z-conteudo-recursos/lidando-com-erros-operacoes-assincronas.md#lidando-com-erros-em-operações-assíncronas)
+- Exercícios
+
+### ) Recursos Externos
 
 #### Documentações
 - [MDN/JavaScript Assíncrono](https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/Asynchronous)
