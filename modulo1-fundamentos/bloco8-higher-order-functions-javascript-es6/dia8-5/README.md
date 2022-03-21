@@ -4,6 +4,9 @@
 - Sintaxe
 - Exercícios
 
+### 2) [Parâmetro Rest](Z-conteudo-recursos/parametro-rest.md#parâmetro-rest)
+- Sintaxe
+
 ### ) [Exercícios](X-agora-a-pratica/exercicios.md#exercícios)
 - Agora a prática
 
