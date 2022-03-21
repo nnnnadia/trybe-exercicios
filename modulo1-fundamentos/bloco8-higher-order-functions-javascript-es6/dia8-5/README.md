@@ -11,6 +11,10 @@
 - Sintaxe
 - Exercícios
 
+### 4) [Array Destructuring](Z-conteudo-recursos/array-destructuring.md#array-destructuring)
+- Sintaxe
+- Exercícios
+
 ### ) [Exercícios](X-agora-a-pratica/exercicios.md#exercícios)
 - Agora a prática
 
