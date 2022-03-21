@@ -15,6 +15,10 @@
 - Sintaxe
 - Exercícios
 
+### 5) [Default Destructuring](Z-conteudo-recursos/default-destructuring.md#default-destructuring)
+- Sintaxe
+- Exercícios
+
 ### ) [Exercícios](X-agora-a-pratica/exercicios.md#exercícios)
 - Agora a prática
 
