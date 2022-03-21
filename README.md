@@ -79,7 +79,7 @@ O programa conta com mais de 1500 horas de aulas presenciais e online, aborda in
 
 ##### Bloco 9: JavaScript e Testes Assíncronos
 
-- [ ] 9.1: _JavaScript Assíncrono e Callbacks_
+- [ ] 9.1: _[JavaScript Assíncrono e Callbacks](modulo1-fundamentos/bloco9-javascript-testes-assincronos/dia9-1/README.md#91-javascript-assíncrono-e-callbacks)_
 - [ ] 9.2: _JavaScript Assíncrono - Fecth API e async/await_
 - [ ] 9.3: _Jest - Testes Assíncronos_
 - [ ] 9.4: _Projeto - Carrinho de Compras_
