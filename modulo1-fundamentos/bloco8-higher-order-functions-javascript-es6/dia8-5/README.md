@@ -19,6 +19,10 @@
 - Sintaxe
 - Exercícios
 
+### 6) [Object Property Shorthand](Z-conteudo-recursos/object-property-shorthand.md#object-property-shorthand)
+- Definição
+- Exercícios
+
 ### ) [Exercícios](X-agora-a-pratica/exercicios.md#exercícios)
 - Agora a prática
 
