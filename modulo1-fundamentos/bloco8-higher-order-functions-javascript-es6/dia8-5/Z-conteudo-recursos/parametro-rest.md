@@ -22,6 +22,6 @@ console.log(sum(4, 7, 8, 9, 60)); // 88
 
 ##
 
-#### [:arrow_left: Spread Operator](./spread-operator.md#spread-operator) | [ :arrow_right:](./)
+#### [:arrow_left: Spread Operator](./spread-operator.md#spread-operator) | [Object Destructuring :arrow_right:](./object-destructuring.md#object-destructuring)
 
 #### [:date: Voltar para o dia 8.5](../README.md#javascript-es6---spread-operator-parâmetro-rest-destructuring-e-mais)
