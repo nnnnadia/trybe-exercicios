@@ -23,10 +23,14 @@
 - Definição
 - Exercícios
 
-### ) [Exercícios](X-agora-a-pratica/exercicios.md#exercícios)
+### 7) [Default Parameters](Z-conteudo-recursos/default-parameters.md#default-parameters)
+- Definição
+- Exercícios
+
+### 8) [Exercícios](X-agora-a-pratica/exercicios.md#exercícios)
 - Agora a prática
 
-### ) Recursos Externos
+### 9) Recursos Externos
 
 #### Documentações
 - [MDN/Sintaxe de Espalhamento](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Operators/Spread_syntax)
