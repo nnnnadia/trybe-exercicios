@@ -75,6 +75,6 @@ console.log(foo); // "bar"
 
 ##
 
-#### [:arrow_left: Parâmetro Rest](./parametro-rest.md#parametro-rest) | [Array Destructuring :arrow_right:](./array-destructuring.md#array-destructuring)
+#### [:arrow_left: Parâmetro Rest](./parametro-rest.md#parâmetro-rest) | [Array Destructuring :arrow_right:](./array-destructuring.md#array-destructuring)
 
 #### [:date: Voltar para o dia 8.5](../README.md#javascript-es6---spread-operator-parâmetro-rest-destructuring-e-mais)
