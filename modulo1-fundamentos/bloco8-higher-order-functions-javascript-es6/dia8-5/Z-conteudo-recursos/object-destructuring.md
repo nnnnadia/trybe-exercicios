@@ -73,6 +73,9 @@ console.log(foo); // "bar"
 ~~~
 > Códigos retirados do MDN.
 
+### Exercícios
+- [exercício 1](https://github.com/nnnnadia/trybe-exercicios/commit/65267a451887b28570f1694c40f07b99f44382c0)
+
 ##
 
 #### [:arrow_left: Parâmetro Rest](./parametro-rest.md#parâmetro-rest) | [Array Destructuring :arrow_right:](./array-destructuring.md#array-destructuring)

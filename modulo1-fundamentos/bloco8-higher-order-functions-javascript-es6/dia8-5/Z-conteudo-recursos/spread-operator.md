@@ -67,4 +67,4 @@ console.log(customer); /* {
 
 #### [Parâmetro Rest :arrow_right:](./parametro-rest.md#parâmetro-rest)
 
-#### [:date: Voltar para o dia 8.5](../README.md#)
+#### [:date: Voltar para o dia 8.5](../README.md#javascript-es6---spread-operator-parâmetro-rest-destructuring-e-mais)
