@@ -18,6 +18,6 @@ console.log(nomeCompleto); // { nome: Nádia, sobrenome: Dutra }
 
 ##
 
-#### [:arrow_left: Default Destructuring](./default-destructuring.md#default-destructuring) | [Default Parameters  :arrow_right:](./default-parameters#default-parameters)
+#### [:arrow_left: Default Destructuring](./default-destructuring.md#default-destructuring) | [Default Parameters  :arrow_right:](./default-parameters.md#default-parameters)
 
 #### [:date: Voltar para o dia 8.5](../README.md#javascript-es6---spread-operator-parâmetro-rest-destructuring-e-mais)
