@@ -1,7 +1,9 @@
 ## 9.1: JavaScript Assíncrono e Callbacks
 
-### 1)
-
+### 1) [Operações Assíncronas](Z-conteudo-recursos/operacoes-assincronas.md#operações-assíncronas)
+- Programação síncrona
+- Programação assíncrona
+  
 ### 2) [Callbacks](Z-conteudo-recursos/callbacks.md)
 - Exercícios
 
