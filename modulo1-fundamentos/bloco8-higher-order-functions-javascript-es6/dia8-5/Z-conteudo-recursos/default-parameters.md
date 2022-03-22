@@ -3,8 +3,12 @@
 ### Definição
 Por padrão os valores dos parâmetros de uma função são predefinidos como `undefined`, entretanto em algumas situações pode ser vantajoso predefinir para outros valores
 ~~~javascript
-const multiply = (number, value) => console.log(multiply(8));
+const greeting = (user = 'usuário') => console.log(`Welcome ${user}!`);
+
+greeting(); // Welcome usuário!
 ~~~
+> Código retirado do Course da Trybe.
+
 
 ### Exercícios
 - [exercício 1](https://github.com/nnnnadia/trybe-exercicios/commit/09c09f295aa4b0b27e06941da57f643fe154a8c1)
