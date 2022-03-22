@@ -14,6 +14,6 @@ greeting(); // Welcome usuário!
 
 ##
 
-#### [:arrow_left: Object Property Shorthand](./default-destructuring.md#default-destructuring) | [Exercícios :arrow_right:](../X-agora-a-pratica/exercicios.md#exercícios)
+#### [:arrow_left: Object Property Shorthand](./object-property-shorthand.md#object-property-shorthand) | [Exercícios :arrow_right:](../X-agora-a-pratica/exercicios.md#exercícios)
 
 #### [:date: Voltar para o dia 8.5](../README.md#javascript-es6---spread-operator-parâmetro-rest-destructuring-e-mais)
