@@ -29,6 +29,6 @@ arr.forEach( acumulador, valorAtual[, index[, array]] )[, valorInicial]) => {
 
 ##
 
-#### [Exercícios :arrow_right:](./exercicios.md#exercicios)
+#### [Exercícios :arrow_right:](../X-agora-a-pratica/exercicios.md#exercícios)
 
 #### [:date: Voltar para o dia 8.4](../README.md#javascript-es6---higher-order-functions---reduce)
