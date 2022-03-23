@@ -30,6 +30,6 @@
 
 ##
 
-#### [:arrow_left: 8.5](../../bloco8-higher-order-functions-javascript-es6/dia8-5#javascript-es6---spread-operator-parâmetro-rest-destructuring-e-mais) | [9.2 :arrow_right:](../X-agora-a-pratica/exercicios.md#exercícios)
+#### [:arrow_left: 8.5](../../bloco8-higher-order-functions-javascript-es6/dia8-5#javascript-es6---spread-operator-parâmetro-rest-destructuring-e-mais) | [9.2 :arrow_right:](../dia9-2/#92-javascript-assíncrono---fetch-api-e-asyncawait)
 
 ##### [:rocket: Voltar](https://github.com/nnnnadia/trybe-exercicios#bloco-9-javascript-e-testes-ass%C3%ADncronos)
