@@ -29,6 +29,7 @@ Imagine que queremos utilizar uma API, visitando o link temos algo como:
 Então precisamos traduzi-la com o JSON.parse() para o JavaScript:
 
 ![JSON analisado](json-parsed.png)
+> Imagens ilustrativas
 
 (o caminho contrário é feito com o JSON.stringfy().)
 
