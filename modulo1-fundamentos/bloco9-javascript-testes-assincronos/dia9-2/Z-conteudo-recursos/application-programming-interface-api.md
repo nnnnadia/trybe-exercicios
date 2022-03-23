@@ -25,11 +25,11 @@ Apesar do nome o JSON não é um objeto nativo do JavaScript, mas temos um objet
 Imagine que queremos utilizar uma API, visitando o link temos algo como:
 
 ![JSON em string](json-string.png)
+> Imagens ilustrativas
 
 Então precisamos traduzi-la com o JSON.parse() para o JavaScript:
 
 ![JSON analisado](json-parsed.png)
-> Imagens ilustrativas
 
 (o caminho contrário é feito com o JSON.stringfy().)
 
