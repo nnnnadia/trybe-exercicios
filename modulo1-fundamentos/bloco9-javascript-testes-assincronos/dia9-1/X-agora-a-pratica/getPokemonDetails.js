@@ -31,17 +31,6 @@ function getPokemonDetails(filter, callback) {
   }, 2000);
 }
 
-getPokemonDetails(
-  (pokemon) => pokemon.name === 'Bulbasaur',
-  (onError, onSuccess) => {
-    if (onError) {
-      console.log(onError);
-    } else {
-      console.log(onSuccess);
-    }
-  }
-);
-
 module.exports = {
   getPokemonDetails,
 };
