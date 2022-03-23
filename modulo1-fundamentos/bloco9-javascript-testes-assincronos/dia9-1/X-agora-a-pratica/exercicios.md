@@ -9,8 +9,8 @@
 - [Exercício 6](https://github.com/nnnnadia/trybe-exercicios/commit/c5b23fc5d01ffdea1b264982d480a587bccd00ad)
 - [Exercício 7](https://github.com/nnnnadia/trybe-exercicios/commit/2cb69f6ade89e6dbeb986c033dd845b6f8f9a7f3)
 - [Exercício 8](https://github.com/nnnnadia/trybe-exercicios/commit/df3f2beb791e2b49ec07449518a7032cae9a1977)
-- [Exercício 9]()
-- [Exercício 10]()
+- [Exercício 9](https://github.com/nnnnadia/trybe-exercicios/commit/2b10ef2e8fd0288d398d3b09353556e3eafb2422)
+- [Exercício 10](https://github.com/nnnnadia/trybe-exercicios/commit/4e3d10ab5326092f26abab5f6f86f06383ba1f84)
 
 ## 
 
