@@ -43,4 +43,6 @@
 
 ##
 
-##### [Voltar](https://github.com/nnnnadia/trybe-exercicios#bloco-8-higher-order-functions-do-javascript-es6)
+#### [:arrow_left: 8.4](../dia8-4#javascript-es6---higher-order-functions---reduce) | [9.1 :arrow_right:](../../bloco9-javascript-testes-assincronos/dia9-1/README.md#91-javascript-assíncrono-e-callbacks)
+
+##### [:rocket: Voltar](https://github.com/nnnnadia/trybe-exercicios#bloco-8-higher-order-functions-do-javascript-es6)
