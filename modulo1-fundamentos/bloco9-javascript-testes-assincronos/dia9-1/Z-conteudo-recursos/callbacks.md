@@ -18,6 +18,6 @@ Entretanto, lembre que nem toda callback é assíncrona, nas HOF elas são sínc
 
 ##
 
-#### [:arrow_left Operações Assíncronas](./operacoes-assincronas.md#operações-assíncronas) | [ :arrow_right:](./)
+#### [:arrow_left: Operações Assíncronas](./operacoes-assincronas.md#operações-assíncronas) | [Lidando com erros em operações assíncronas :arrow_right:](./lidando-com-erros-operacoes-assincronas.md#lidando-com-erros-em-operações-assíncronas)
 
 #### [:date: Voltar para o dia 9.1](../README.md#91-javascript-assíncrono-e-callbacks)
