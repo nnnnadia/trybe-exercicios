@@ -41,7 +41,6 @@ Então precisamos traduzi-la com o JSON.parse() para o JavaScript:
 
 ##
 
-#### [ :arrow_right:](./)
+#### [Promises :arrow_right:](./promises.md#promises)
 
 #### [:date: Voltar para o dia 9.2](../#92-javascript-assíncrono---fetch-api-e-asyncawait)
-
