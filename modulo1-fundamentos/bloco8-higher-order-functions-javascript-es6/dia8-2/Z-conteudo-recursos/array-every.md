@@ -34,4 +34,4 @@ arr.every((element [, index [, array]]) => {
 
 #### [:arrow_left: Array.some()](./array-some.md#arraysome) | [Array.sort() :arrow_right:](./array-sort.md#arraysort)
 
-#### [:date: Voltar para o dia 8.2](../README.md#82-javascript-es6---higher-order-functions---foreach-find-some-every-sort)
+#### [:date: Voltar para o dia 8.2](../#82-javascript-es6---higher-order-functions---foreach-find-some-every-sort)
