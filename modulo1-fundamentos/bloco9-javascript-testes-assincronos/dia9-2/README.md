@@ -5,6 +5,9 @@
 - Como as APIs funcionam?
 - O que é JSON e por que usamos?
 
+### 2) [Promises](Z-conteudo-recursos/promises.md#promises)
+- O que são?
+
 ### ) [Exercícios](X-agora-a-pratica/exercicios.md#exercícios)
 - Agora a prática
 
@@ -16,6 +19,7 @@
 
 #### Referências
 - [Trybe](https://www.betrybe.com/)
+- [Callback Hell](http://callbackhell.com/)
 
 ##
 
