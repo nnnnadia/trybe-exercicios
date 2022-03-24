@@ -13,3 +13,9 @@ Operações assíncronas são colocadas em uma fila de eventos que é executada 
 - Você pode encadear vários blocos `.then()` passando o resultado de uma como parâmetro de outra, já que também retornam uma promise, evitando o tal *callback hell*.
 - As callbacks das promises são chemadas na ordem que são colocadas na fila.
 - O tratamento de erros é muito melhor, ao invés de lidar individualmente com os erros de cada callback você pode trata-los em um único bloco `.catch()`.
+
+##
+
+#### [:arrow_left: Application Programming Interface (API)](./application-programming-interface-api.md) | [ :arrow_right:](./)
+
+#### [:date: Voltar para o dia 9.2](../#92-javascript-assíncrono---fetch-api-e-asyncawait)
