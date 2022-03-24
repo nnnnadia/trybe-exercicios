@@ -16,6 +16,7 @@
 #### Documentações
 - [MDN/JavaScript Assíncrono](https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/Asynchronous)
 - [MDN/Client-side web APIs](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs)
+- [MDN/Fetch API](https://developer.mozilla.org/pt-BR/docs/Web/API/Fetch_API)
 
 #### Referências
 - [Trybe](https://www.betrybe.com/)
