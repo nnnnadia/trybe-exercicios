@@ -38,4 +38,4 @@ test('sums two values', () => {
 
 #### [:arrow_left: Introdução ao Jest](./introducao-ao-jest.md#introdução-ao-jest) | [Expect e Matchers :arrow_right:](./expect-e-matchers.md#expect-e-matchers)
 
-#### [:date: Voltar para o dia 7.3](../README.md#73-javascript-es6---fluxos-de-exceção-e-objetos)
+#### [:date: Voltar para o dia 7.3](../#73-javascript-es6---fluxos-de-exceção-e-objetos)

@@ -14,4 +14,4 @@
 
 #### [:arrow_left: Testes Unitários](./testes-unitarios.md#testes-unitários) | [NodeJS Assert :arrow_right:](./nodejs-assert.md#nodejs-assert)
 
-#### [:date: Voltar para o dia 7.3](../README.md#73-javascript-es6---fluxos-de-exceção-e-objetos)
+#### [:date: Voltar para o dia 7.3](../#73-javascript-es6---fluxos-de-exceção-e-objetos)

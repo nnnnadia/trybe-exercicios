@@ -34,4 +34,4 @@ arr.forEach((currentValue [, index [, array]]) => {
 
 #### [Array.find() :arrow_right:](./array-find.md#arrayfind)
 
-#### [:date: Voltar para o dia 8.2](../README.md#82-javascript-es6---higher-order-functions---foreach-find-some-every-sort)
+#### [:date: Voltar para o dia 8.2](../#82-javascript-es6---higher-order-functions---foreach-find-some-every-sort)

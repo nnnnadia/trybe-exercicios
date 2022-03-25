@@ -12,4 +12,4 @@ A função `it` é um alias da função `test`. O que determina o uso de cada um
 
 #### [:arrow_left: Expect e Matchers](./expect-e-matchers.md#expect-e-matchers)
 
-#### [:date: Voltar para o dia 7.3](../README.md#73-javascript-es6---fluxos-de-exceção-e-objetos)
+#### [:date: Voltar para o dia 7.3](../#73-javascript-es6---fluxos-de-exceção-e-objetos)
