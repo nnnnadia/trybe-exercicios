@@ -1,4 +1,4 @@
-## JavaScript ES6 - Higher Order Functions - map e filter
+## 8.3: JavaScript ES6 - Higher Order Functions - map e filter
 
 ### 1) [Array.filter()](Z-conteudo-recursos/array-filter.md#arrayfilter)
 - Sintaxe
