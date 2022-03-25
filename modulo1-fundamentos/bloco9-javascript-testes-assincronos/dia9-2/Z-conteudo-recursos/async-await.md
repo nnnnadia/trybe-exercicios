@@ -21,6 +21,6 @@ Quando uma função assíncrona é chamada ela retorna uma *Promise*. Se junto c
 
 Uma função assíncrona pode conter uma expressão await, que pausa a execução da função assíncrona e espera pela resolução da Promise passada, e depois retoma a execução da função assíncrona e retorna o valor resolvido ou invoca uma Exception com o valor rejeitado.
 
-#### [:arrow_left: Promises](./promises.md#promises) | [Para Fixar :arrow_right:](./para-fixar.md#para-fixar)
+#### [:arrow_left: Fetch API](./fetch-api.md#fetch-api) | [Para Fixar :arrow_right:](./para-fixar.md#para-fixar)
 
 #### [:date: Voltar para o dia 9.2](../#92-javascript-assíncrono---fetch-api-e-asyncawait)
