@@ -8,10 +8,16 @@
 ### 2) [Promises](Z-conteudo-recursos/promises.md#promises)
 - O que são?
 
-### ) [Exercícios](X-agora-a-pratica/exercicios.md#exercícios)
+### 3) [Async e Await](Z-conteudo-recursos/async-await.md#async-e-await)
+- Sintaxe
+
+### 4) [Para Fixar](Z-conteudo-recursos/para-fixar.md#para-fixar)
+- Exercícios
+
+### 5) [Exercícios](X-agora-a-pratica/exercicios.md#exercícios)
 - Agora a prática
 
-### ) Recursos Externos
+### 6) Recursos Externos
 
 #### Documentações
 - [MDN/JavaScript Assíncrono](https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/Asynchronous)
