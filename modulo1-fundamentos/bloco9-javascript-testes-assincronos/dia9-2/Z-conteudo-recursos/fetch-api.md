@@ -38,6 +38,6 @@ const fetch = require('node-fetch')
 
 ##
 
-#### [:arrow_left: Promises](./promises.md#promises) | [ :arrow_right:](.)
+#### [:arrow_left: Promises](./promises.md#promises) | [Async e Await :arrow_right:](./async-await.md#async-e-await)
 
 #### [:date: Voltar para o dia 9.2](../#92-javascript-assíncrono---fetch-api-e-asyncawait)
