@@ -28,4 +28,4 @@ Confira mais detalhes [:page_facing_up:](https://jestjs.io/docs/expect):point_le
 
 #### [:arrow_left: Escrevendo Testes](./escrevendo-testes.md#escrevendo-testes) | [O Bloco Describe :arrow_right:](./o-bloco-describe.md#o-bloco-describe)
 
-#### [:date: Voltar para o dia 7.3](../README.md#73-javascript-es6---fluxos-de-exceção-e-objetos)
+#### [:date: Voltar para o dia 7.3](../#73-javascript-es6---fluxos-de-exceção-e-objetos)

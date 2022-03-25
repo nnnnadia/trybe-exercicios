@@ -1,6 +1,6 @@
 ## Para Fixar
 
-# Exercícios
+### Exercícios
 1) O que é um código que é executado de modo assíncrono? Qual é a diferença disso para um código que é executado de modo síncrono?
 > Um código assíncrono é aquele que não acontece naquele momento, diferente do síncrono que acontece linha após linha, ele espera outra parte do código acontecer para continuar a execução.
 2) Quando você tem que enfileirar várias callbacks, que problema surge?
@@ -14,6 +14,6 @@
 
 ##
 
-#### [:arrow_left: Promises](./promises.md#promises) | [Exercícios :arrow_right:](../X-agora-a-pratica/exercicios.md#exercícios)
+#### [:arrow_left: Async e Await](./async-await.md#async-e-await) | [Exercícios :arrow_right:](../X-agora-a-pratica/exercicios.md#exercícios)
 
 #### [:date: Voltar para o dia 9.2](../#92-javascript-assíncrono---fetch-api-e-asyncawait)

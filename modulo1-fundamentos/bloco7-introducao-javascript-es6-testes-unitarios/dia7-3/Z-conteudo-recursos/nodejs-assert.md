@@ -18,4 +18,4 @@ assert.strictEqual(50, 70); // AssertionError: 50 !== 70
 
 #### [:arrow_left: Testando em Pequenos Passos](./testando-em-pequenos-passos.md#testando-em-pequenos-passos) | [Introdução ao Jest :arrow_right:](./introducao-ao-jest.md#introdução-ao-jest)
 
-#### [:date: Voltar para o dia 7.3](../README.md#73-javascript-es6---fluxos-de-exceção-e-objetos)
+#### [:date: Voltar para o dia 7.3](../#73-javascript-es6---fluxos-de-exceção-e-objetos)

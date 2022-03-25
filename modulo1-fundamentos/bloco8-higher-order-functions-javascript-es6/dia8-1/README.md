@@ -28,4 +28,6 @@
 
 ##
 
-##### [Voltar](https://github.com/nnnnadia/trybe-exercicios#bloco-8-higher-order-functions-do-javascript-es6)
+#### [8.2 :arrow_right:](../dia8-2/#82-javascript-es6---higher-order-functions---foreach-find-some-every-sort)
+
+##### [:rocket: Voltar](https://github.com/nnnnadia/trybe-exercicios#bloco-8-higher-order-functions-do-javascript-es6)
