@@ -1,4 +1,4 @@
-## JavaScript ES6 - Higher Order Functions - reduce
+## 8.4: JavaScript ES6 - Higher Order Functions - reduce
 
 ### 1) [Array.reduce()](Z-conteudo-recursos/array-reduce.md#arrayreduce)
 - Sintaxe
