@@ -17,4 +17,6 @@
 
 ##
 
-##### [Voltar](https://github.com/nnnnadia/trybe-exercicios#bloco-8-higher-order-functions-do-javascript-es6)
+#### [:arrow_left: 8.3](../dia8-3#javascript-es6---higher-order-functions---map-e-filter) | [8.5 :arrow_right:](../dia8-5/#javascript-es6---spread-operator-parâmetro-rest-destructuring-e-mais)
+
+##### [:rocket: Voltar](https://github.com/nnnnadia/trybe-exercicios#bloco-8-higher-order-functions-do-javascript-es6)
