@@ -8,4 +8,4 @@
 
 #### [:arrow_left: Para Fixar](../Z-conteudo-recursos/para-fixar.md#para-fixar)
 
-#### [:date: Voltar para o dia 9.1](../#92-javascript-assíncrono---fetch-api-e-asyncawait)
+#### [:date: Voltar para o dia 9.2](../#92-javascript-assíncrono---fetch-api-e-asyncawait)
