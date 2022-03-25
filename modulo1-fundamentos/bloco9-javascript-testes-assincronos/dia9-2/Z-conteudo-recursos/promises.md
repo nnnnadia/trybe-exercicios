@@ -16,6 +16,6 @@ Operações assíncronas são colocadas em uma fila de eventos que é executada 
 
 ##
 
-#### [:arrow_left: Application Programming Interface (API)](./application-programming-interface-api.md) | [Fetch :arrow_right:](./fetch-api.md#fetch-api)
+#### [:arrow_left: Application Programming Interface (API)](./application-programming-interface-api.md) | [Async e Await :arrow_right:](./async-await.md#async-e-await)
 
 #### [:date: Voltar para o dia 9.2](../#92-javascript-assíncrono---fetch-api-e-asyncawait)
