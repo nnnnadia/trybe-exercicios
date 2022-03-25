@@ -8,16 +8,20 @@
 ### 2) [Promises](Z-conteudo-recursos/promises.md#promises)
 - O que são?
 
-### 3) [Async e Await](Z-conteudo-recursos/async-await.md#async-e-await)
+### 3) [Fetch API](/Z-conteudo-recursos/fetch-api.md#fetch-api)
+- O que é?
 - Sintaxe
 
-### 4) [Para Fixar](Z-conteudo-recursos/para-fixar.md#para-fixar)
+### 4) [Async e Await](Z-conteudo-recursos/async-await.md#async-e-await)
+- Sintaxe
+
+### 5) [Para Fixar](Z-conteudo-recursos/para-fixar.md#para-fixar)
 - Exercícios
 
-### 5) [Exercícios](X-agora-a-pratica/exercicios.md#exercícios)
+### 6) [Exercícios](X-agora-a-pratica/exercicios.md#exercícios)
 - Agora a prática
 
-### 6) Recursos Externos
+### 7) Recursos Externos
 
 #### Documentações
 - [MDN/JavaScript Assíncrono](https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/Asynchronous)
