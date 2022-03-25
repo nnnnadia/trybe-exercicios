@@ -33,6 +33,6 @@
 
 ##
 
-#### [:arrow_left: 8.1](../dia8-1#81-javascript-es6---introdução-a-higher-order-functions) | [8.3 :arrow_right:](../dia8-3/#javascript-es6---higher-order-functions---map-e-filter)
+#### [:arrow_left: 8.1](../dia8-1#81-javascript-es6---introdução-a-higher-order-functions) | [8.3 :arrow_right:](../dia8-3/#83-javascript-es6---higher-order-functions---map-e-filter)
 
 ##### [:rocket: Voltar](https://github.com/nnnnadia/trybe-exercicios#bloco-8-higher-order-functions-do-javascript-es6)
