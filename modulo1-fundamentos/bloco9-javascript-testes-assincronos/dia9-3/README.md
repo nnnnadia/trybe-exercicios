@@ -2,6 +2,7 @@
 
 ### 1) [async/await](Z-conteudo-recursos/async-await.md#asyncawait)
 - Sintaxe
+- Exercícios
 
 ### 2) [Exercícios](X-agora-a-pratica/exercicios.md#exercícios)
 - Agora a prática
