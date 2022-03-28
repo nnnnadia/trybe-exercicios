@@ -3,9 +3,9 @@
 A Fetch API fornece uma interface para buscar recursos. 
 
 #### Acesso ao método
-Você pode ter acesso ao método fetch utilizando o objeto global e método `GlobalFetch.fetch()`.
+Você pode ter acesso ao método fetch que roda nativamente praticamente em qualquer navegador com `fetch()`.
 
-Ou pode rodar direto no node. Caso não tenha o package.json:
+Ou pode rodar direto no node para ter acesso no VSCode. Caso não tenha o package.json:
 ~~~
 npm init -y
 ~~~
