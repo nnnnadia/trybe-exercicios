@@ -5,6 +5,6 @@
 
 ##
 
-#### [:arrow_left: Callbacks](./callbacks.md#callbacks) | [ :arrow_right:](.)
+#### [:arrow_left: Callbacks](./callbacks.md#callbacks) | [Testes Assíncronos com Callbacks :arrow_right:](./testes-assincronos-com-callbacks.md#testes-assíncronos-com-callbacks)
 
 #### [:date: Voltar para o dia 9.1](../README.md#91-javascript-assíncrono-e-callbacks)
