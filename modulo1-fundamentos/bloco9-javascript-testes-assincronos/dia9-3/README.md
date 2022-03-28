@@ -1,6 +1,6 @@
 ## 9.3: Jest - Testes Assíncronos
 
-### 1) [async/await](/Z-conteudo-recursos/async-await.md#asyncawait)
+### 1) [async/await](Z-conteudo-recursos/async-await.md#asyncawait)
 - Sintaxe
 
 ### 2) [Exercícios](X-agora-a-pratica/exercicios.md#exercícios)
