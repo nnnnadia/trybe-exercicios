@@ -17,7 +17,6 @@ E importe num arquivo JavaScript usando:
 ~~~javascript
 const fetch = require('node-fetch')
 ~~~
-(Desta forma não precisamos do `GlobalFetch` para chamar o método.)
 
 ### Sintaxe
 
@@ -35,6 +34,18 @@ const fetch = require('node-fetch')
 > "O método global `fetch()` inicia o processo de busca de um recurso da rede, retornando uma promessa que é cumprida assim que a resposta estiver disponível. A promessa é resolvida para o objeto Response que representa a resposta à sua solicitação."
 > 
 > Trechos retirados no MDN [:page_facing_up:](https://developer.mozilla.org/pt-BR/docs/Web/API/fetch):point_left:
+
+#### Observação `init`
+Por enquanto não veremos aprofundadamente, mas para acessar algumas APIs será necessário preencher este parâmetro. Caso você encontre uma assim podemos preencher da seguinte forma:
+~~~javascript
+async function getAddress(cep) {
+  const requestInit = {
+    headers: {'Accept': 'application/json'}
+  };
+  const response = await fetch(`http://cep.la/${cep}`, requestInit);
+  ...
+}
+~~~
 
 ##
 
