@@ -44,6 +44,6 @@ describe('Scoped / Nested block', () => {
 
 ##
 
-#### [:arrow_left: ???](./) | [Exercícios :arrow_right:](../X-agora-a-pratica/exercicios.md#exercícios)
+#### [:arrow_left: Testes Assíncronos com Callbacks](./testes-assincronos-com-callbacks.md#testes-assíncronos-com-callbacks) | [Exercícios :arrow_right:](../X-agora-a-pratica/exercicios.md#exercícios)
 
 #### [:date: Voltar para o dia 9.1](../README.md#91-javascript-assíncrono-e-callbacks)
