@@ -21,6 +21,9 @@ test('...', async () => {
 }
 ~~~
 
+### Exercícios
+- [exercício 1](https://github.com/nnnnadia/9.3-content-async-test/commit/bdaf5534b2f819ca8e4c71579c0a9d2dd4a557ff)
+
 #### [Exercícios :arrow_right:](../X-agora-a-pratica/exercicios.md#exercícios)
 
 #### [:date: Voltar para o dia 9.3](../#93-jest---testes-assíncronos)
