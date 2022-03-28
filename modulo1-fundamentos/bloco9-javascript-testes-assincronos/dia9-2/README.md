@@ -34,6 +34,6 @@
 
 ##
 
-#### [:arrow_left: 9.1](../dia9-1/#91-javascript-assíncrono-e-callbacks) | [9.3 :arrow_right:](../dia9-3/)
+#### [:arrow_left: 9.1](../dia9-1/#91-javascript-assíncrono-e-callbacks) | [9.3 :arrow_right:](../dia9-3/#93-jest---testes-assíncronos)
 
 ##### [:rocket: Voltar](https://github.com/nnnnadia/trybe-exercicios#bloco-9-javascript-e-testes-ass%C3%ADncronos)
