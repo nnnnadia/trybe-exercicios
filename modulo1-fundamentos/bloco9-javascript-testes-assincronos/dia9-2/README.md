@@ -8,7 +8,7 @@
 ### 2) [Promises](Z-conteudo-recursos/promises.md#promises)
 - O que são?
 
-### 3) [Fetch API](/Z-conteudo-recursos/fetch-api.md#fetch-api)
+### 3) [Fetch API](Z-conteudo-recursos/fetch-api.md#fetch-api)
 - O que é?
 - Sintaxe
 
