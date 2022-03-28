@@ -79,9 +79,9 @@ O programa conta com mais de 1500 horas de aulas presenciais e online, aborda in
 
 ##### Bloco 9: JavaScript e Testes Assíncronos
 
-- [ ] 9.1: _[JavaScript Assíncrono e Callbacks](modulo1-fundamentos/bloco9-javascript-testes-assincronos/dia9-1/#91-javascript-assíncrono-e-callbacks)_
-- [ ] 9.2: _[JavaScript Assíncrono - Fecth API e async/await](/modulo1-fundamentos/bloco9-javascript-testes-assincronos/dia9-2#92-javascript-assíncrono---fetch-api-e-asyncawait)_
-- [ ] 9.3: _Jest - Testes Assíncronos_
+- [x] 9.1: _[JavaScript Assíncrono e Callbacks](modulo1-fundamentos/bloco9-javascript-testes-assincronos/dia9-1/#91-javascript-assíncrono-e-callbacks)_
+- [x] 9.2: _[JavaScript Assíncrono - Fecth API e async/await](/modulo1-fundamentos/bloco9-javascript-testes-assincronos/dia9-2#92-javascript-assíncrono---fetch-api-e-asyncawait)_
+- [ ] 9.3: _[Jest - Testes Assíncronos](modulo1-fundamentos/bloco9-javascript-testes-assincronos/dia9-3/#93-jest---testes-assíncronos)_
 - [ ] 9.4: _Projeto - Carrinho de Compras_
 
 ## Desenvolvimento Front-End :hourglass_flowing_sand:
