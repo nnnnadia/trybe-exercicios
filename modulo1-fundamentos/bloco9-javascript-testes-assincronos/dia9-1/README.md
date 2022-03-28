@@ -5,6 +5,7 @@
 - Programação assíncrona
   
 ### 2) [Callbacks](Z-conteudo-recursos/callbacks.md)
+- Definição
 - Exercícios
 
 ### 3) [Lidando com erros em operações assíncronas](Z-conteudo-recursos/lidando-com-erros-operacoes-assincronas.md#lidando-com-erros-em-operações-assíncronas)
