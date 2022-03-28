@@ -10,7 +10,8 @@
 ### 3) [Lidando com erros em operações assíncronas](Z-conteudo-recursos/lidando-com-erros-operacoes-assincronas.md#lidando-com-erros-em-operações-assíncronas)
 - Exercícios
 
-### 4) ???
+### 4) [Testes Assíncronos com Callbacks](/Z-conteudo-recursos/testes-assincronos-com-callbacks.md#testes-assíncronos-com-callbacks)
+- Sintaxe
 
 ### 5) [Setup e Teardown](Z-conteudo-recursos/setup-teardown.md#setup-e-teardown)
 - 3 ciclos do Jest
@@ -23,6 +24,7 @@
 
 #### Documentações
 - [MDN/JavaScript Assíncrono](https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/Asynchronous)
+- [Jest/Testing Asynchronous Code](https://jestjs.io/docs/asynchronous#callbacks)
 - [Jest/Configuração e Desmontagem](https://jestjs.io/pt-BR/docs/setup-teardown)
 
 #### Referências
