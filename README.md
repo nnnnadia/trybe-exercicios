@@ -6,7 +6,7 @@ _"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vi
 
 O programa conta com mais de 1500 horas de aulas presenciais e online, aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais.
 
-## Fundamentos do Desenvolvimento Web :white_check_mark:
+## Fundamentos do Desenvolvimento Web :heavy_check_mark:
 
 ##### Bloco 1: Unix & Bash
 
@@ -84,7 +84,61 @@ O programa conta com mais de 1500 horas de aulas presenciais e online, aborda in
 - [ ] 9.3: _[Jest - Testes Assíncronos](modulo1-fundamentos/bloco9-javascript-testes-assincronos/dia9-3/#93-jest---testes-assíncronos)_
 - [ ] 9.4: _Projeto - Carrinho de Compras_
 
-## Desenvolvimento Front-End :hourglass_flowing_sand:
+## Desenvolvimento Front-End :white_check_mark:
+
+##### Bloco 10: Introdução à React
+
+- [ ] 10.1: _'Hello, world!' no React!_ 
+- [ ] 10.2: _Componentes React_
+- [ ] 10.3: _Projeto - Sistema Solar_
+
+##### Bloco 11: Componentes com Estado, Eventos e Formulários com React
+
+- [ ] 11.1: _Componentes com estado e eventos_ 
+- [ ] 11.2: _Formulários no React_
+- [ ] 11.3: _Projeto - Tryunfo_
+
+##### Bloco 12: Ciclo de Vida de Componentes e React Router
+
+- [ ] 12.1: _Ciclo de vida de componentes_ 
+- [ ] 12.2: _React router_
+- [ ] 12.3: _Projeto - TrybeTunes_
+
+##### Bloco 13: Metodologias Ágeis
+
+- [ ] 13.1: _Metodologias Ágeis_ 
+- [ ] 13.2: _Projeto - Frontent Online Store_
+
+##### Bloco 14: Testes automatizados com React Testing Library
+
+- [ ] 14.1: _RTL - Primeiros passos_ 
+- [ ] 14.2: _RTL - Mocks e Inputs_
+- [ ] 14.3: _RTL - Testando React Router_
+- [ ] 14.4: _Projeto - Testes em React_
+
+##### Bloco 15: Gerenciamento de estado com Redux
+
+- [ ] 15.1: _Introdução ao Redux - O estado global da aplicação_ 
+- [ ] 15.2: _Usando o Redux no React_
+- [ ] 15.3: _Usando o Redux no React - Prática_
+- [ ] 15.4: _Usando o Redux no React - Actions Assíncronas_
+- [ ] 15.5: _Testes em React-Redux_
+- [ ] 15.6: _Projeto - Trybe Wallet_
+
+##### Bloco 16: Projeto Jogo de Trivia
+
+- [ ] 16.1: _Projeto - Jogo de Trivia_ 
+
+##### Bloco 17: Context API e React Hooks
+
+- [ ] 17.1: _Context API do React_
+- [ ] 17.2: _React Hooks - useState e useContext_
+- [ ] 17.3: _React Hooks - useEffect e Hooks customizados_
+- [ ] 17.4: _Projeto - StarWars Datatable com Context API e Hooks_
+
+##### Bloco 18: Projeto App de Receitas
+
+- [ ] 18.1: _Projeto - App de Receitas_
 
 ## Desenvolvimento Back-End :hourglass_flowing_sand:
 
