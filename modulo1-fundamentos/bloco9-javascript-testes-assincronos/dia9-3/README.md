@@ -17,6 +17,6 @@
 
 ##
 
-#### [:arrow_left: 9.2](../dia9-2/#92-javascript-assíncrono---fetch-api-e-asyncawait) | [10.1 :arrow_right:](../dia10-1/#101)
+#### [:arrow_left: 9.2](../dia9-2/#92-javascript-assíncrono---fetch-api-e-asyncawait) | [10.1 :arrow_right:](../../../modulo2-front-end/bloco10-introducao-react/dia10-1/#101-hello-world-no-react)
 
 ##### [:rocket: Voltar](https://github.com/nnnnadia/trybe-exercicios#bloco-9-javascript-e-testes-ass%C3%ADncronos)
