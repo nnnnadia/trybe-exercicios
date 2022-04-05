@@ -19,21 +19,21 @@ O pacote create-react-app cria todos os arquivos necessários para um prejeto Re
 
 ### Observação: Instalando o NVM
 Em caso de algum erro de versionamento ao rodar os passos anteriores vamos instalar o nvm
-1 - baixar e instalar
+1) baixar e instalar
 ~~~shell
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.3/install.sh | zsh
 # observe qual é o terminal que você usa e altere `zsh` se não for esse
 ~~~
-2 - fechar o terminal e todas as abas
-3 - testar a instalação
+2) fechar o terminal e todas as abas
+3) testar a instalação
 ~~~shell
 nvm --version
 ~~~
-4 - instalar a versão LTS do Node
+4) instalar a versão LTS do Node
 ~~~shell
 nvm install --lts
 ~~~
-5 - testar a instalação
+5) testar a instalação
 ~~~shell
 node --version
 ~~~
