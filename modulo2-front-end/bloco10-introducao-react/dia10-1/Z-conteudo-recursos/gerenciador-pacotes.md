@@ -15,7 +15,7 @@ npx create-react-app my-app
 cd my-app
 npm start
 ~~~
-o pacote create-react-app cria todos os arquivos necessários para um prejeto React. Aqui podemos entender o uso do `npx`, só vamos rodar uma vez por projeto, então não é necessário instalar o pacote.
+O pacote create-react-app cria todos os arquivos necessários para um prejeto React. Aqui podemos entender o uso do `npx`, só vamos rodar uma vez por projeto, então não é necessário instalar o pacote.
 
 ### Observação: Instalando o NVM
 Em caso de algum erro de versionamento ao rodar os passos anteriores vamos instalar o nvm
