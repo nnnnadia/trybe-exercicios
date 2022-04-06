@@ -23,11 +23,7 @@ function getGreeting(user) {
   return <h1>Hello, Stranger.</h1>;
 }
 
-const element = (
-  <h1>
-    Hello, {formatName(user)}!
-	</h1>
-);
+const element = getGreeting(user);
 ~~~
 #### Especificando atributos
 Você deve usar aspas para valores string e chaves para expressões (nunca ambos).
@@ -42,6 +38,6 @@ const element = <img src={user.avatarUrl}></img>;
 
 ##
 
-#### [:arrow_left: Gerenciador de Pacotes](./gerenciador-pacotes.md#gerenciador-de-pacotes) | [ReactDOM.render :arrow_right:](.reactdom-render/.md#reactdomrender)
+#### [:arrow_left: Gerenciador de Pacotes](./gerenciador-pacotes.md#gerenciador-de-pacotes) | [ReactDOM.render :arrow_right:](./reactdom-render.md#reactdomrender)
 
 #### [:date: Voltar para o dia 10.1](../#101-hello-world-no-react)
