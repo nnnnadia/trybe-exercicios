@@ -9,10 +9,15 @@
 - Javascript Syntax Extension
 - Exercícios
 
-### 3) Recursos Externos
+### 3) [ReactDOM.render](Z-conteudo-recursos/reactdom-render.md#reactdomrender)
+- Renderizando um elemento
+- Sintaxe
+
+### 4) Recursos Externos
 
 #### Documentações
 - [npm Docs](https://docs.npmjs.com/)
+- [React Docs](https://reactjs.org/docs/getting-started.html)
 
 #### Referências
 - [Trybe](https://www.betrybe.com/)
