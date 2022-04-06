@@ -37,4 +37,4 @@ E [:page_facing_up:](https://reactjs.org/docs/react-dom.html#legacy-reference):p
 
 #### [:arrow_left: JSX](./jsx.md#jsx) | [ :arrow_right:](./.md#)
 
-#### [:date: Voltar para o dia .](../#101-hello-world-no-react)
+#### [:date: Voltar para o dia 10.1](../#101-hello-world-no-react)
