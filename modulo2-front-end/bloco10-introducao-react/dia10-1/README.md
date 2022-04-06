@@ -5,8 +5,9 @@
 - Criando um app React
 - Observação: Instalando o NVM
 
-### 2) []()
-- 
+### 2) [JSX](Z-conteudo-recursos/jsx.md#jsx)
+- Javascript Syntax Extension
+- Exercícios
 
 ### 3) Recursos Externos
 
