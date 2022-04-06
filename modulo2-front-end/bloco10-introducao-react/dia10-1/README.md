@@ -20,4 +20,4 @@
 
 #### [:arrow_left: 9.3](../../../modulo1-fundamentos/bloco9-javascript-testes-assincronos/dia9-3#93-jest---testes-assíncronos) | [10.2 :arrow_right:](../dia10-/#101)
 
-##### [:rocket: Voltar](https://github.com/nnnnadia/trybe-exercicios#bloco-9-javascript-e-testes-ass%C3%ADncronos)
+##### [:rocket: Voltar](https://github.com/nnnnadia/trybe-exercicios#bloco-10-introdução-à-react)

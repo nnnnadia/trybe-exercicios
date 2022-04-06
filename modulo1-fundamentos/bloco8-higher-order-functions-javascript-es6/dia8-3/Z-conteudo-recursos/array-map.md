@@ -1,7 +1,7 @@
 ## Array.map()
 
 ### Sintaxe
-De acordo com a documentação do MDN [:page_facing_up:](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Array/map):point_left::
+De acordo com a documentação do MDN [:page_facing_up:](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Array/map):point_left:
 > ~~~javascript
 > arr.map(callback[, thisArg])
 > ~~~

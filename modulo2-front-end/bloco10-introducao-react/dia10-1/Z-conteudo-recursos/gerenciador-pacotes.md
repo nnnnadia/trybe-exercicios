@@ -38,6 +38,6 @@ nvm install --lts
 node --version
 ~~~
 
-#### [ :arrow_right:](.)
+#### [JSX :arrow_right:](./jsx.md#jsx)
 
 #### [:date: Voltar para o dia 10.1](../#101-hello-world-no-react)
