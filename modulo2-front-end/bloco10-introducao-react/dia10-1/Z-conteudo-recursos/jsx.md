@@ -42,6 +42,6 @@ const element = <img src={user.avatarUrl}></img>;
 
 ##
 
-#### [:arrow_left: Gerenciador de Pacotes](./gerenciador-pacotes.md#gerenciador-de-pacotes) | [ :arrow_right:](./.md#)
+#### [:arrow_left: Gerenciador de Pacotes](./gerenciador-pacotes.md#gerenciador-de-pacotes) | [ReactDOM.render :arrow_right:](.reactdom-render/.md#reactdomrender)
 
 #### [:date: Voltar para o dia 10.1](../#101-hello-world-no-react)
