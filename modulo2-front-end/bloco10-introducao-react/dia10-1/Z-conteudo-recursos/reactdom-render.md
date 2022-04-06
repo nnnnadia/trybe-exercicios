@@ -30,7 +30,9 @@ E [:page_facing_up:](https://reactjs.org/docs/react-dom.html#legacy-reference):p
 > ~~~
 > #### Definições
 > Renderiza um elemento React no DOM especificamente dentro do container fornecido e retorna a referência para o componente.
-> Caso o elemento já tenha sido renderizado no container é realizado uma atualização e apenas o necessário é mudado no DOM para aderir as alterações.
+> 
+> Caso o elemento já tenha sido renderizado no container é realizado uma atualização e apenas o (nó(s)/*node(s)*) necessário é mudado no DOM para aderir as alterações.
+> 
 > A callback opcional é chamada após renderização ou atualização do elemento.
 
 ##
