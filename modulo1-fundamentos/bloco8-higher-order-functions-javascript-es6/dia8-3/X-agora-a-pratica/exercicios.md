@@ -1,4 +1,4 @@
-## Exercícios
+## 8.3: JavaScript ES6 - Higher Order Functions - map e filter
 
 ### Agora a Prática
 - [exercise1.js](./exercise1.js)
@@ -11,6 +11,6 @@
 
 ## 
 
-#### [:arrow_left: Array.map()](../Z-conteudo-recursos/array-map.md#arraymap)
+#### [:arrow_left: 8.2](../../dia8-2/X-agora-a-pratica/exercicios.md) | [8.4 :arrow_right:](../../dia8-4/X-agora-a-pratica/exercicios.md)
 
-#### [:date: Voltar para o dia 8.3](../README.md#javascript-es6---higher-order-functions---map-e-filter)
+##### [:rocket: Voltar](https://github.com/nnnnadia/trybe-exercicios#bloco-8-higher-order-functions-do-javascript-es6)
