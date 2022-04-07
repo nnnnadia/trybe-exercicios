@@ -1,4 +1,4 @@
-## Exercícios
+## 9.2: JavaScript Assíncrono - Fetch API e async/await
 
 ### Agora a Prática
 - [Exercício 1](https://github.com/nnnnadia/trybe-exercicios/pull/90/commits/92182588ae4155ee48113431c614992f8c29591d)
@@ -6,6 +6,6 @@
 
 ## 
 
-#### [:arrow_left: Para Fixar](../Z-conteudo-recursos/para-fixar.md#para-fixar)
+#### [:arrow_left: 9.1](../../dia9-1/X-agora-a-pratica/exercicios.md) | [9.3 :arrow_right:](../../dia9-3/X-agora-a-pratica/exercicios.md)
 
-#### [:date: Voltar para o dia 9.2](../#92-javascript-assíncrono---fetch-api-e-asyncawait)
+##### [:rocket: Voltar](https://github.com/nnnnadia/trybe-exercicios#bloco-9-javascript-e-testes-assíncronos)
