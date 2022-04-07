@@ -1,4 +1,5 @@
 import react from 'react';
+import './Content.css'
 
 const conteudos = [
   {
@@ -29,7 +30,7 @@ class Content extends react.Component {
       <ul>
         {
           conteudos.map(({ conteudo, bloco, status }) => {
-            const conteudoLi = <li>
+            const conteudoLi = <li className='conteudo'>
               <p>O conteúdo é: <span>{conteudo}</span></p>
               <p>Status: <span>{status}</span></p>
               <p>Bloco: <span>{bloco}</span></p>
