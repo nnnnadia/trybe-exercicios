@@ -10,6 +10,6 @@
 
 ## 
 
-#### [:arrow_left: ](../Z-conteudo-recursos/.md#)
+#### [:arrow_left: 9.3](../../../../modulo1-fundamentos/bloco9-javascript-testes-assincronos/dia9-3/X-agora-a-pratica/exercicios.md) | [10.2 :arrow_right:](../../dia10-2/X-agora-a-pratica/exercicios.md)
 
 #### [🚀 Voltar](https://github.com/nnnnadia/trybe-exercicios#bloco-10-introdu%C3%A7%C3%A3o-%C3%A0-react)
