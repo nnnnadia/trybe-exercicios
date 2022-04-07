@@ -1,4 +1,4 @@
-## Exercícios
+## 8.1: JavaScript ES6 - Introdução a Higher Order Functions
 
 ### Agora a Prática
 - [emailCorporativo.js](./emailCorporativo.js)
@@ -9,4 +9,4 @@
 
 #### [:arrow_left: Higher Order Functions](../Z-conteudo-recursos/higher-order-functions.md#higher-order-functions)
 
-#### [:date: Voltar para o dia 8.1](../README.md#81-javascript-es6---introdução-a-higher-order-functions)
+#### [🚀 Voltar](https://github.com/nnnnadia/trybe-exercicios#bloco-8-higher-order-functions-do-javascript-es6)
