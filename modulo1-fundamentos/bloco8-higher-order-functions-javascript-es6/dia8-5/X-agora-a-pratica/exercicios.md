@@ -1,4 +1,4 @@
-## Exercícios
+## 8.5: JavaScript ES6 - spread operator, parâmetro rest, destructuring e mais
 
 ### Agora a Prática
 - [Exercício 1](https://github.com/nnnnadia/trybe-exercicios/commit/bac8e695bac5d70380b20dddc93f29f8d5aec72e)
@@ -13,6 +13,6 @@
 
 ## 
 
-#### [:arrow_left: Default Parameters](../Z-conteudo-recursos/default-parameters.md#default-parameters)
+#### [:arrow_left: 8.4](../../dia8-4/X-agora-a-pratica/exercicios.md) | [9.1 :arrow_right:](../../../bloco9-javascript-testes-assincronos/dia9-1/X-agora-a-pratica/exercicios.md)
 
-#### [:date: Voltar para o dia 8.5](../#javascript-es6---spread-operator-parâmetro-rest-destructuring-e-mais)
+##### [:rocket: Voltar](https://github.com/nnnnadia/trybe-exercicios#bloco-8-higher-order-functions-do-javascript-es6)
