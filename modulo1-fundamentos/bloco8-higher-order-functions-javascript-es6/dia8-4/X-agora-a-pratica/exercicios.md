@@ -1,4 +1,4 @@
-## Exercícios
+## 8.4: JavaScript ES6 - Higher Order Functions - reduce
 
 ### Agora a Prática
 - [exercise1.js](./exercise1.js)
@@ -10,6 +10,6 @@
 
 ## 
 
-#### [:arrow_left: Array.reduce()](../Z-conteudo-recursos/array-reduce.md#arrayreduce)
+#### [:arrow_left: 8.3](../../dia8-3/X-agora-a-pratica/exercicios.md) | [8.5 :arrow_right:](../../dia8-5/X-agora-a-pratica/exercicios.md)
 
-#### [:date: Voltar para o dia 8.4](../README.md#javascript-es6---higher-order-functions---reduce)
+##### [:rocket: Voltar](https://github.com/nnnnadia/trybe-exercicios#bloco-8-higher-order-functions-do-javascript-es6)
