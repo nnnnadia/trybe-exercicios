@@ -1,4 +1,4 @@
-## Exercícios
+## 9.1: JavaScript Assíncrono e Callbacks
 
 ### Agora a Prática
 - [Exercício 1](https://github.com/nnnnadia/trybe-exercicios/commit/1dba255aadd9b83f49db267b0d639be67afc9b00)
@@ -14,6 +14,6 @@
 
 ## 
 
-#### [:arrow_left: Setup e Teardown](../Z-conteudo-recursos/setup-teardown.md#setup-e-teardown)
+#### [:arrow_left: 8.5](../../../bloco8-higher-order-functions-javascript-es6/dia8-5/X-agora-a-pratica/exercicios.md) | [9.2 :arrow_right:](../../dia9-2/X-agora-a-pratica/exercicios.md)
 
-#### [:date: Voltar para o dia 9.1](../#91-javascript-assíncrono-e-callbacks)
+##### [:rocket: Voltar](https://github.com/nnnnadia/trybe-exercicios#bloco-9-javascript-e-testes-assíncronos)
