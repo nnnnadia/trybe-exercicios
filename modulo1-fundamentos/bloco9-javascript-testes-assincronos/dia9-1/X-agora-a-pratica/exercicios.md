@@ -14,6 +14,6 @@
 
 ## 
 
-#### [:arrow_left: 8.5](../../../bloco8-higher-order-functions-javascript-es6/dia8-5/X-agora-a-pratica/exercicios.md) | [9.2 :arrow_right:](../../dia9-2/X-agora-a-pratica/exercicios.md))
+#### [:arrow_left: 8.5](../../../bloco8-higher-order-functions-javascript-es6/dia8-5/X-agora-a-pratica/exercicios.md) | [9.2 :arrow_right:](../../dia9-2/X-agora-a-pratica/exercicios.md)
 
 ##### [:rocket: Voltar](https://github.com/nnnnadia/trybe-exercicios#bloco-9-javascript-e-testes-assíncronos)
