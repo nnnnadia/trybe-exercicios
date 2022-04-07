@@ -70,25 +70,25 @@ O programa conta com mais de 1500 horas de aulas presenciais e online, aborda in
 
 ##### Bloco 8: Higher Order Functions do JavaScript ES6
 
-- [ ] 8.1: _[JavaScript ES6 - Introdução a Higher Order Functions](modulo1-fundamentos/bloco8-higher-order-functions-javascript-es6/dia8-1#81-javascript-es6---introdução-a-higher-order-functions)_
-- [x] 8.2: _[JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort](modulo1-fundamentos/bloco8-higher-order-functions-javascript-es6/dia8-2#82-javascript-es6---higher-order-functions---foreach-find-some-every-sort)_
-- [x] 8.3: _[JavaScript ES6 - Higher Order Functions - map e filter](modulo1-fundamentos/bloco8-higher-order-functions-javascript-es6/dia8-3/#83-javascript-es6---higher-order-functions---map-e-filter)_
-- [x] 8.4: _[JavaScript ES6 - Higher Order Functions - reduce](modulo1-fundamentos/bloco8-higher-order-functions-javascript-es6/dia8-4#84-javascript-es6---higher-order-functions---reduce)_
-- [x] 8.5: _[JavaScript ES6 - spread operator, parâmetro rest, destructing e mais](modulo1-fundamentos/bloco8-higher-order-functions-javascript-es6/dia8-5#85-javascript-es6---spread-operator-parâmetro-rest-destructuring-e-mais)_
-- [ ] 8.6: _Projeto - Zoo functions_
+- [ ] 8.1: _[JavaScript ES6 - Introdução a Higher Order Functions](modulo1-fundamentos/bloco8-higher-order-functions-javascript-es6/dia8-1/X-agora-a-pratica/exercicios.md)_
+- [x] 8.2: _[JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort](modulo1-fundamentos/bloco8-higher-order-functions-javascript-es6/dia8-2/X-agora-a-pratica/exercicios.md)_
+- [x] 8.3: _[JavaScript ES6 - Higher Order Functions - map e filter](modulo1-fundamentos/bloco8-higher-order-functions-javascript-es6/dia8-3/X-agora-a-pratica/exercicios.md)_
+- [x] 8.4: _[JavaScript ES6 - Higher Order Functions - reduce](modulo1-fundamentos/bloco8-higher-order-functions-javascript-es6/dia8-4/X-agora-a-pratica/exercicios.md)_
+- [x] 8.5: _[JavaScript ES6 - spread operator, parâmetro rest, destructing e mais](modulo1-fundamentos/bloco8-higher-order-functions-javascript-es6/dia8-5/X-agora-a-pratica/exercicios.md)_
+- [x] 8.6: _Projeto - Zoo functions_
 
 ##### Bloco 9: JavaScript e Testes Assíncronos
 
-- [x] 9.1: _[JavaScript Assíncrono e Callbacks](modulo1-fundamentos/bloco9-javascript-testes-assincronos/dia9-1/#91-javascript-assíncrono-e-callbacks)_
-- [x] 9.2: _[JavaScript Assíncrono - Fecth API e async/await](/modulo1-fundamentos/bloco9-javascript-testes-assincronos/dia9-2#92-javascript-assíncrono---fetch-api-e-asyncawait)_
-- [ ] 9.3: _[Jest - Testes Assíncronos](modulo1-fundamentos/bloco9-javascript-testes-assincronos/dia9-3/#93-jest---testes-assíncronos)_
+- [x] 9.1: _[JavaScript Assíncrono e Callbacks](modulo1-fundamentos/bloco9-javascript-testes-assincronos/dia9-1/X-agora-a-pratica/exercicios.md)_
+- [x] 9.2: _[JavaScript Assíncrono - Fecth API e async/await](modulo1-fundamentos/bloco9-javascript-testes-assincronos/dia9-2/X-agora-a-pratica/exercicios.md)_
+- [ ] 9.3: _[Jest - Testes Assíncronos](modulo1-fundamentos/bloco9-javascript-testes-assincronos/dia9-3/X-agora-a-pratica/exercicios.md)_
 - [ ] 9.4: _Projeto - Carrinho de Compras_
 
 ## Desenvolvimento Front-End :white_check_mark:
 
 ##### Bloco 10: Introdução à React
 
-- [ ] 10.1: _['Hello, world!' no React!](modulo2-front-end/bloco10-introducao-react/dia10-1/X-agora-a-pratica/exercicios.md#101-hello-world-no-react)_ 
+- [ ] 10.1: _['Hello, world!' no React!](modulo2-front-end/bloco10-introducao-react/dia10-1/X-agora-a-pratica/exercicios.md)_ 
 - [ ] 10.2: _Componentes React_
 - [ ] 10.3: _Projeto - Sistema Solar_
 
