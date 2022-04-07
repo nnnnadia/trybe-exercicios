@@ -7,6 +7,6 @@
 
 ##
 
-#### [:arrow_left: Higher Order Functions](../Z-conteudo-recursos/higher-order-functions.md#higher-order-functions)
+#### [:arrow_left: ]() | [8.2 :arrow_right:](../../dia8-2/X-agora-a-pratica/exercicios.md)
 
-#### [🚀 Voltar](https://github.com/nnnnadia/trybe-exercicios#bloco-8-higher-order-functions-do-javascript-es6)
+##### [:rocket: Voltar](https://github.com/nnnnadia/trybe-exercicios#bloco-8-higher-order-functions-do-javascript-es6)
