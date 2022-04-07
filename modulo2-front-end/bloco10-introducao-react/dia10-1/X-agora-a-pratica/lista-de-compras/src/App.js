@@ -9,7 +9,8 @@ function ListItem(value) {
 function App() {
   const container = document.getElementById('root');
   const root = ReactDOM.createRoot(container);
-  const element = <ul>{ListItem('Morango')}</ul>
+  const shoppingList = ['🍓', '🍞', '🍪', '🧀'];
+  const element = <ul>{shoppingList.map((item) => ListItem(item))}</ul>
   root.render(element);
 }
 
