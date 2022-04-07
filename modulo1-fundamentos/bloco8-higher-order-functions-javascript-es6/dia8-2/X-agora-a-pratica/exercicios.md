@@ -1,4 +1,4 @@
-## Exercícios
+## 8.2: JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort
 
 ### Agora a Prática
 - [exercise1.js](./exercise1.js)
@@ -11,6 +11,6 @@
 
 ## 
 
-#### [:arrow_left: Array.sort()](../Z-conteudo-recursos/array-sort.md#arraysort)
+#### [:arrow_left: 8.1](../../dia8-1/X-agora-a-pratica/exercicios.md) | [8.3 :arrow_right:](../../dia8-3/X-agora-a-pratica/exercicios.md)
 
-#### [:date: Voltar para o dia 8.2](../#82-javascript-es6---higher-order-functions---foreach-find-some-every-sort)
+##### [:rocket: Voltar](https://github.com/nnnnadia/trybe-exercicios#bloco-8-higher-order-functions-do-javascript-es6)
