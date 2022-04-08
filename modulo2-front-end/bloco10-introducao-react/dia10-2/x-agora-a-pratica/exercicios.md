@@ -2,10 +2,7 @@
 
 ### Agora a Prática
 - [Exercício 1](https://github.com/nnnnadia/trybe-exercicios/commit/331dbdf5114bb6be6e47ecc9f00fc5d4a1f3da8f)
-- [Exercício 2]()
-
-### Bônus
-- [Exercício 1]()
+- [Exercício 2](https://github.com/nnnnadia/trybe-exercicios/commit/70bd858c6adc0d727160a77f05ab19944414d6ea)
 
 ## 
 
