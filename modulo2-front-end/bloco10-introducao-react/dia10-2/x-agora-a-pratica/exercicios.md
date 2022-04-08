@@ -1,4 +1,4 @@
-## 10.1: Componentes React
+## 10.2: Componentes React
 
 ### Agora a Prática
 - [Exercício 1](https://github.com/nnnnadia/trybe-exercicios/commit/331dbdf5114bb6be6e47ecc9f00fc5d4a1f3da8f)
