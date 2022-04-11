@@ -4,19 +4,16 @@ import './App.css';
 class App extends Component {
   constructor(props) {
     super(props);
-    this.handleRedClick = this.handleRedClick.bind(this);
-    this.handleGreenClick = this.handleGreenClick.bind(this);
-    this.handleBlueClick = this.handleBlueClick.bind(this);
+    this.handleClick = this.handleClick.bind(this);
   }
-  handleRedClick = () => console.log(this);
-  handleGreenClick = () => console.log('green');
-  handleBlueClick = () => console.log('blue');
+  handleClick = (text) => console.log(text);
   render() {
+    const { firstBtn, secondBtn, thirdBtn } = this.props;
     return (
       <>
-        <button onClick={this.handleRedClick}>Red</button>
-        <button onClick={this.handleGreenClick}>Green</button>
-        <button onClick={this.handleBlueClick}>Blue</button>
+        <button onClick={() => this.handleClick(firstBtn)}>Red</button>
+        <button onClick={() => this.handleClick(secondBtn)}>Green</button>
+        <button onClick={() => this.handleClick(thirdBtn)}>Blue</button>
       </>
     );
   }
