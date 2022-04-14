@@ -6,6 +6,6 @@
 
 ## 
 
-#### [:arrow_left: 10.2](../bloco10-introducao-react/dia10-2/x-agora-a-pratica/exercicios.md) | [11.2 :arrow_right:](../../dia11-2/x-agora-a-pratica/exercicios.md)
+#### [:arrow_left: 10.2](../../../bloco10-introducao-react/dia10-2/x-agora-a-pratica/exercicios.md) | [11.2 :arrow_right:](../../dia11-2/x-agora-a-pratica/exercicios.md)
 
 #### [🚀 Voltar](https://github.com/nnnnadia/trybe-exercicios#bloco-11-componentes-com-estado-eventos-e-formul%C3%A1rios-com-react)
