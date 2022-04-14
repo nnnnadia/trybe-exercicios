@@ -6,6 +6,6 @@
 
 ## 
 
-#### [:arrow_left: 10.1](../../dia10-1/X-agora-a-pratica/exercicios.md) | [11.1 :arrow_right:]()
+#### [:arrow_left: 10.1](../../dia10-1/X-agora-a-pratica/exercicios.md) | [11.1 :arrow_right:](../../../bloco11-componentes-estavo-eventos-formularios-react/dia11-1/x-agora-a-pratica/exercicios.md)
 
 #### [🚀 Voltar](https://github.com/nnnnadia/trybe-exercicios#bloco-10-introdu%C3%A7%C3%A3o-%C3%A0-react)
