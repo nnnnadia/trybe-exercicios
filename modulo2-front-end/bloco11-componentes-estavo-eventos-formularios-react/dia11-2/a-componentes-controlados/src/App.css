@@ -1,0 +1,17 @@
+.code {
+  font-family: monospace;
+  margin-bottom: 0.1em;
+}
+
+.indent {
+  margin-left: 1em;
+}
+
+.form-check-label {
+  margin-left: 1em;
+  margin-right: 1em;
+}
+
+h1 {
+  margin: 1em 0;
+}
