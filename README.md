@@ -148,6 +148,27 @@ Tenha acesso as [*Anotações e Referências*](https://github.com/nnnnadia/trybe
 
 ## Desenvolvimento Back-End :hourglass_flowing_sand:
 
+##### Bloco 19: Docker: Utilizando Containers
+
+- [ ] 19.1: _Utilizando Containers_
+- [ ] 19.2: _Manipulando Imagens
+- [ ] 19:3: _Orquestrando Containers com Docker Compose_
+- [ ] 19.4: _Projeto - Docker To Do List_
+
+##### Bloco :
+##### Bloco :
+##### Bloco :
+##### Bloco :
+##### Bloco :
+##### Bloco :
+##### Bloco :
+##### Bloco :
+##### Bloco :
+##### Bloco :
+##### Bloco :
+##### Bloco :
+##### Bloco :
+
 ## Ciência da Computação :hourglass_flowing_sand:
 
 ## Referências
