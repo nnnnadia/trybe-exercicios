@@ -7,7 +7,7 @@
 ![Exercício 2](https://github.com/nnnnadia/trybe-exercicios/blob/main/modulo3-back-end/bloco21-funcoes-sql-joins-normalizacao/dia21-3/X-agora-a-pratica/exercicio2.png)
 - [Exercício 3](https://github.com/nnnnadia/trybe-exercicios/blob/main/modulo3-back-end/bloco21-funcoes-sql-joins-normalizacao/dia21-3/X-agora-a-pratica/exercicio3.png)
 ![Exercício 3](https://github.com/nnnnadia/trybe-exercicios/blob/main/modulo3-back-end/bloco21-funcoes-sql-joins-normalizacao/dia21-3/X-agora-a-pratica/exercicio3.png)
-- [Exercício 4](https://github.com/nnnnadia/trybe-exercicios/blob/main/modulo3-back-end/bloco21-funcoes-sql-joins-normalizacao/dia21-3/X-agora-a-pratica/exercicio4.png)
+- [Exercício 4](https://github.com/nnnnadia/trybe-exercicios/blob/main/modulo3-back-end/bloco21-funcoes-sql-joins-normalizacao/dia21-3/X-agora-a-pratica/exercicio4.png)</br>
 ![Exercício 4](https://github.com/nnnnadia/trybe-exercicios/blob/main/modulo3-back-end/bloco21-funcoes-sql-joins-normalizacao/dia21-3/X-agora-a-pratica/exercicio4.png)
 
 ## 
