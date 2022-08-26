@@ -7,6 +7,9 @@
 - [Exercício 4](https://github.com/nnnnadia/trybe-exercicios/commit/54c610545256a80ba467c5d610164f9ca042ec7d#comments)
 - [Exercício 5](https://github.com/nnnnadia/trybe-exercicios/commit/03887d8df718bff6f50d7741986ebd5ce713e84a#comments)
 
+### Bônus
+- [Exercício 6](https://github.com/nnnnadia/trybe-exercicios/commit/27017faeec68483440809c664d68ad0acae3f6b4#comments)
+
 ## 
 
 #### [:arrow_left: 21.1](../../dia21-1/X-agora-a-pratica/exercicios.md) | [21.3 :arrow_right:](../../dia21-3/X-agora-a-pratica/exercicios.md)
