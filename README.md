@@ -155,8 +155,19 @@ Tenha acesso as [*Anotações e Referências*](https://github.com/nnnnadia/trybe
 - [ ] 19:3: _Orquestrando Containers com Docker Compose_
 - [ ] 19.4: _Projeto - Docker To Do List_
 
-##### Bloco :
-##### Bloco :
+##### Bloco 20: Introdução à SQL
+
+- [ ] 20.1: _Banco de dados SQL_
+- [ ] 20.2: _Encontrando dados em um banco de dados_
+- [ ] 20.3: _Filtrando dados de forma específica_
+- [ ] 20.4: _Manipulando tabelas_
+
+##### Bloco 21: Funções SQL, JOINs e Normalização
+
+- [ ] 21.1: _Funções mais usadas no SQL_
+- [ ] 21.2: _Descomplicando JOINs_
+- [ ] 22.3: _Transformando ideias em um modelo de banco de dados_
+
 ##### Bloco :
 ##### Bloco :
 ##### Bloco :
