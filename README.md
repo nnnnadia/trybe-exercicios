@@ -165,8 +165,8 @@ Tenha acesso as [*Anotações e Referências*](https://github.com/nnnnadia/trybe
 ##### Bloco 21: Funções SQL, JOINs e Normalização
 
 - [ ] 21.1: _Funções mais usadas no SQL_
-- [ ] 21.2: _[Descomplicando JOINs](modulo3-back-end/bloco21-funcoes-sql-joins-normalizacao/dia21-2/X-agora-a-pratica/exercicios.md)_
-- [ ] 22.3: _[Transformando ideias em um modelo de banco de dados](modulo3-back-end/bloco21-funcoes-sql-joins-normalizacao/dia21-3/X-agora-a-pratica/exercicios.md)_
+- [ ] 21.2: _[Descomplicando JOINs](modulo3-back-end/bloco21-funcoes-sql-joins-normalizacao/dia21-2/X-agora-a-pratica/exercicios.md#212-descomplicando-joins)_
+- [ ] 21.3: _[Transformando ideias em um modelo de banco de dados](modulo3-back-end/bloco21-funcoes-sql-joins-normalizacao/dia21-3/X-agora-a-pratica/exercicios.md#213-transformando-ideias-em-um-modelo-de-banco-de-dados)_
 
 ##### Bloco :
 ##### Bloco :
