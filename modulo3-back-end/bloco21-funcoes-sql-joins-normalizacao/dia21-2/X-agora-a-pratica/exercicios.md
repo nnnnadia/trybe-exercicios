@@ -12,6 +12,6 @@
 
 ## 
 
-#### [:arrow_left: 21.1](../../dia21-1/X-agora-a-pratica/exercicios.md) | [21.3 :arrow_right:](../../dia21-3/X-agora-a-pratica/exercicios.md)
+#### [:arrow_left: 21.1](../../dia21-1/X-agora-a-pratica/exercicios.md) | [21.3 :arrow_right:](../../dia21-3/X-agora-a-pratica/exercicios.md#213-transformando-ideias-em-um-modelo-de-banco-de-dados)
 
 ##### [:rocket: Voltar](https://github.com/nnnnadia/trybe-exercicios/blob/main/README.md#bloco-21-fun%C3%A7%C3%B5es-sql-joins-e-normaliza%C3%A7%C3%A3o)
