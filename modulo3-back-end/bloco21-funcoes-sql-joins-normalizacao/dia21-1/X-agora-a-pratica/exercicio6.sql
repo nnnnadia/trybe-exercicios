@@ -1,0 +1,1 @@
+SELECT job_id, COUNT(*) FROM employees WHERE job_id = "IT_PROG" GROUP BY job_id;
