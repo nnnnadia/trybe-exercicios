@@ -164,11 +164,18 @@ Tenha acesso as [*Anotações e Referências*](https://github.com/nnnnadia/trybe
 
 ##### Bloco 21: Funções SQL, JOINs e Normalização
 
-- [ ] 21.1: _Funções mais usadas no SQL_
-- [ ] 21.2: _[Descomplicando JOINs](modulo3-back-end/bloco21-funcoes-sql-joins-normalizacao/dia21-2/X-agora-a-pratica/exercicios.md#212-descomplicando-joins)_
-- [ ] 21.3: _[Transformando ideias em um modelo de banco de dados](modulo3-back-end/bloco21-funcoes-sql-joins-normalizacao/dia21-3/X-agora-a-pratica/exercicios.md#213-transformando-ideias-em-um-modelo-de-banco-de-dados)_
+- [x] 21.1: _[Funções mais usadas no SQL](modulo3-back-end/bloco21-funcoes-sql-joins-normalizacao/dia21-1/X-agora-a-pratica/exercicios.md#211-funções-mais-usadas-no-sql)_
+- [x] 21.2: _[Descomplicando JOINs](modulo3-back-end/bloco21-funcoes-sql-joins-normalizacao/dia21-2/X-agora-a-pratica/exercicios.md#212-descomplicando-joins)_
+- [x] 21.3: _[Transformando ideias em um modelo de banco de dados](modulo3-back-end/bloco21-funcoes-sql-joins-normalizacao/dia21-3/X-agora-a-pratica/exercicios.md#213-transformando-ideias-em-um-modelo-de-banco-de-dados)_
 
-##### Bloco :
+##### Bloco 22: Introdução ao desenvolvimento Web com Node.js
+
+- [ ] 22.1: Node.js: Runtime Assíncrono
+- [ ] 22.2: Node.js: API REST com Express
+- [ ] 22.3: Node.js: Testes de Integração
+- [ ] 22.4: Express: Middlewares
+- [ ] 22.5: Node.js: Express e MySQL
+
 ##### Bloco :
 ##### Bloco :
 ##### Bloco :
