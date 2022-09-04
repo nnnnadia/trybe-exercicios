@@ -1,7 +1,9 @@
-const weight = 65.2;
-const height = 1.68;
-const bmi = () => weight / height ** 2;
+const readLineSync = require('readline-sync');
 
-console.log(bmi());
+const weight = readLineSync.questionFloat('What is your weight? ');
+const height = readLineSync.questionFloat('What is your height? ');
+const bmi = () => (weight / height ** 2).toFixed(1);
+
+console.log(`Your BMI is ${bmi()}`);
 
 module.exports = bmi;
