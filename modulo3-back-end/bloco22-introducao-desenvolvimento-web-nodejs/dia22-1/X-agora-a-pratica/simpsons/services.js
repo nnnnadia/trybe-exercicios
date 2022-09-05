@@ -10,6 +10,17 @@ const readAndParseFile = async (filePath) => {
   }
 };
 
+const findCharacterById = async (searchId) => {
+  const data = await readAndParseFile('./simpsons.json');
+  const promise = new Promise((resolve, reject) => {
+    const character = data.find(({ id }) => +id === searchId);
+    if (character) resolve(character);
+    reject(new Error('Não há personagem com este id.'));
+  });
+  return promise;
+};
+
 module.exports = {
   readAndParseFile,
+  findCharacterById,
 };
