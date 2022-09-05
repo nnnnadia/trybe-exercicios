@@ -151,7 +151,7 @@ Tenha acesso as [*Anotações e Referências*](https://github.com/nnnnadia/trybe
 ##### Bloco 19: Docker: Utilizando Containers
 
 - [ ] 19.1: _Utilizando Containers_
-- [ ] 19.2: _Manipulando Imagens
+- [ ] 19.2: _Manipulando Imagens_
 - [ ] 19:3: _Orquestrando Containers com Docker Compose_
 - [ ] 19.4: _Projeto - Docker To Do List_
 
@@ -171,7 +171,7 @@ Tenha acesso as [*Anotações e Referências*](https://github.com/nnnnadia/trybe
 ##### Bloco 22: Introdução ao desenvolvimento Web com Node.js
 
 - [ ] 22.1: Node.js: Runtime Assíncrono
-- [x] _[22.2: Node.js: API REST com Express](modulo3-back-end/bloco22-introducao-desenvolvimento-web-nodejs/dia22-2/X-agora-a-pratica/exercicios.md#222-nodejs-api-rest-com-express)_
+- [x] 22.2: _[Node.js: API REST com Express](modulo3-back-end/bloco22-introducao-desenvolvimento-web-nodejs/dia22-2/X-agora-a-pratica/exercicios.md#222-nodejs-api-rest-com-express)_
 - [ ] 22.3: Node.js: Testes de Integração
 - [ ] 22.4: Express: Middlewares
 - [ ] 22.5: Node.js: Express e MySQL
