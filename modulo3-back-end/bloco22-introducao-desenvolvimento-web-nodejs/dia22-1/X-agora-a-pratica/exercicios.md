@@ -11,6 +11,6 @@
 
 ## 
 
-##### [:arrow_left: 21.3](../../../bloco21-funcoes-sql-joins-normalizacao/dia21-3/X-agora-a-pratica/exercicios.md#213-transformando-ideias-em-um-modelo-de-banco-de-dados) | [22.2 :arrow_right:](../../dia22-2/X-agora-a-pratica/exercicios.md#222-nodejs-api-rest-com-express)
+#### [:arrow_left: 21.3](../../../bloco21-funcoes-sql-joins-normalizacao/dia21-3/X-agora-a-pratica/exercicios.md#213-transformando-ideias-em-um-modelo-de-banco-de-dados) | [22.2 :arrow_right:](../../dia22-2/X-agora-a-pratica/exercicios.md#222-nodejs-api-rest-com-express)
 
 ##### [:rocket: Voltar](https://github.com/nnnnadia/trybe-exercicios/blob/main/README.md#bloco-22-introdu%C3%A7%C3%A3o-ao-desenvolvimento-web-com-nodejs)
