@@ -1,0 +1,17 @@
+{
+  "name": "simpsons",
+  "version": "1.0.0",
+  "description": "",
+  "main": "simpsons.js",
+  "scripts": {
+    "ex1": "node exercicio1.js",
+    "ex2": "node exercicio2.js",
+    "ex3": "node exercicio3.js",
+    "ex4": "node exercicio4.js",
+    "ex5": "node exercicio5.js",
+    "ex6": "node exercicio6.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
