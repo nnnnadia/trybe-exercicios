@@ -1,0 +1,25 @@
+{
+  "name": "dia22-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start-a": "node A-exercicios-conteudo/soccer-team-manager/src/server.js",
+    "start-aap-tdl": "node X-agora-a-pratica/to-do-list/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev-a": "nodemon A-exercicios-conteudo/soccer-team-manager/src/server.js",
+    "dev-aap-tdl": "nodemon X-agora-a-pratica/to-do-list/server.js",
+    "lint": "eslint --no-inline-config --no-error-on-unmatched-pattern -c .eslintrc.json ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-config-trybe-backend": "^1.0.1",
+    "nodemon": "^2.0.19"
+  }
+}
