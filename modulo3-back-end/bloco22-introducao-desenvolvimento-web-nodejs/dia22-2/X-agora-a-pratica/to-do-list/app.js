@@ -26,4 +26,8 @@ app.get('/myActivities/:id', (req, res) => {
   res.status(200).json(requestedActivity);
 });
 
+app.get('/myActivities', (_req, res) => {
+  res.status(200).json(activities);
+});
+
 module.exports = app;
