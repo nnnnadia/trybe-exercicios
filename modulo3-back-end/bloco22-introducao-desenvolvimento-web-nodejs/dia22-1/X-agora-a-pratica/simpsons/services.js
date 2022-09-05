@@ -20,7 +20,17 @@ const findCharacterById = async (searchId) => {
   return promise;
 };
 
+const writeStringifiedFile = async (path, data) => {
+  try {
+    const stringifiedData = JSON.stringify(data);
+    await fs.writeFile(path, stringifiedData);
+  } catch (error) {
+    console.error(`Erro ao escrever o arquivo: ${error.message}`);
+  }
+};
+
 module.exports = {
   readAndParseFile,
   findCharacterById,
+  writeStringifiedFile,
 };
