@@ -1,41 +1,19 @@
 const express = require('express');
+const { validateTeam, existingId } = require('./middlewares');
+const teams = require('./data/teamsFile');
 
 const app = express();
 
 let nextId = 3;
-const teams = [
-  { id: 1, nome: 'São Paulo Futebol Clube', sigla: 'SPF' },
-  { id: 2, nome: 'Sociedade Esportiva Palmeiras', sigla: 'PAL' },
-];
 
 app.use(express.json());
 
 app.get('/teams', (req, res) => res.json(teams));
 
-const existingId = (req, res, next) => {
-  const id = Number(req.params.id);
-  const team = teams.find(t => t.id === id);
-  if (team) {
-    res.locals.team = team;
-    next();
-  } else {
-    res.sendStatus(400);
-  }
-};
-
 app.get('/teams/:id', existingId, (req, res) => {
   const team = res.locals.team;
   res.status(200).json(team);
 });
-
-const validateTeam = (req, res, next) => {
-  const requiredProperties = ['nome', 'sigla'];
-  if (requiredProperties.every((property) => property in req.body)) {
-    next();
-  } else {
-    res.sendStatus(400);
-  }
-};
 
 app.post('/teams', validateTeam, (req, res) => {
   const team = { id: nextId, ...req.body };
