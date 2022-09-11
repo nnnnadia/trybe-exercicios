@@ -173,7 +173,7 @@ Tenha acesso as [*Anotações e Referências*](https://github.com/nnnnadia/trybe
 - [x] 22.1: _[Node.js: Runtime Assíncrono](modulo3-back-end/bloco22-introducao-desenvolvimento-web-nodejs/dia22-1/X-agora-a-pratica/exercicios.md#221-nodejs-runtime-ass%C3%ADncrono)_
 - [x] 22.2: _[Node.js: API REST com Express](modulo3-back-end/bloco22-introducao-desenvolvimento-web-nodejs/dia22-2/X-agora-a-pratica/exercicios.md#222-nodejs-api-rest-com-express)_
 - [ ] 22.3: Node.js: Testes de Integração
-- [ ] 22.4: Express: Middlewares
+- [x] 22.4: _[Express: Middlewares](modulo3-back-end/bloco22-introducao-desenvolvimento-web-nodejs/dia22-4/X-agora-a-pratica/exercicios.md#224-express-middlewares)_
 - [ ] 22.5: Node.js: Express e MySQL
 
 ##### Bloco :
