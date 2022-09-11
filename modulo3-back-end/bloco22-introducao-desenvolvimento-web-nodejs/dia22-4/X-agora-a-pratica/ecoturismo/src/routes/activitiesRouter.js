@@ -4,6 +4,7 @@ const {
   validatePrice,
   validateDescription,
   validateCreatedAt,
+  validateRating,
 } = require('../middlewares');
 const router = express.Router();
 
@@ -13,6 +14,7 @@ router.post(
   validatePrice,
   validateDescription,
   validateCreatedAt,
+  validateRating,
   (req, res) => res.status(201).json({ message: 'Atividade cadastrada com sucesso' })
 );
 
