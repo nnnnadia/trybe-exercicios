@@ -11,6 +11,6 @@
 
 ## 
 
-#### [:arrow_left: 22.1]() | [22.3 :arrow_right:]()
+#### [:arrow_left: 22.1](../../dia22-1/X-agora-a-pratica/exercicios.md#221-nodejs-runtime-assíncrono) | [22.3 :arrow_right:]()
 
 ##### [:rocket: Voltar](https://github.com/nnnnadia/trybe-exercicios/blob/main/README.md#bloco-22-introdu%C3%A7%C3%A3o-ao-desenvolvimento-web-com-nodejs)
