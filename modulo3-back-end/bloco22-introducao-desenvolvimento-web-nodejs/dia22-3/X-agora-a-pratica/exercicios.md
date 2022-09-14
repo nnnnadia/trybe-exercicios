@@ -6,6 +6,6 @@
 
 ## 
 
-#### [:arrow_left: 22.2](../../dia22-2/X-agora-a-pratica/exercicios.md#221-nodejs-runtime-assíncrono) | [22.4 :arrow_right:](../../dia22-4/X-agora-a-pratica/exercicios.md)
+#### [:arrow_left: 22.2](../../dia22-2/X-agora-a-pratica/exercicios.md#222-nodejs-api-rest-com-express) | [22.4 :arrow_right:](../../dia22-4/X-agora-a-pratica/exercicios.md#224-express-middlewares)
 
 ##### [:rocket: Voltar](https://github.com/nnnnadia/trybe-exercicios/blob/main/README.md#bloco-22-introdu%C3%A7%C3%A3o-ao-desenvolvimento-web-com-nodejs)
