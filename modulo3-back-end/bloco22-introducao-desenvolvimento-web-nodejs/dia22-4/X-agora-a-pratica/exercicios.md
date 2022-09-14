@@ -13,6 +13,6 @@
 
 ## 
 
-#### [⬅️ 22.3]() | [22.5 ➡️](../../dia22-5/X-agora-a-pratica/exercicios.md#225-nodejs-express-e-mysql)
+#### [⬅️ 22.3](../../dia22-3/X-agora-a-pratica/exercicios.md#223-nodejs-testes-de-integra%C3%A7%C3%A3o) | [22.5 ➡️](../../dia22-5/X-agora-a-pratica/exercicios.md#225-nodejs-express-e-mysql)
 
 ##### [🚀 Voltar](https://github.com/nnnnadia/trybe-exercicios/tree/main#bloco-22-introdu%C3%A7%C3%A3o-ao-desenvolvimento-web-com-nodejs)
