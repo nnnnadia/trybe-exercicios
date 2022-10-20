@@ -6,7 +6,7 @@ const getAll = async (_req, res) => {
     return res.status(200).json(books);
   } catch (error) {
     console.log(error.message);
-    return res.status(500).json({ message: 'Ocorreu um erro' });
+    return res.status(500).json({ message: 'Something went wrong' });
   }
 };
 
@@ -21,7 +21,19 @@ const getById = async (req, res) => {
   }
 };
 
+const create = async (req, res) => {
+  try {
+    const newBook = req.body;
+    const book = await BookService.create(newBook);
+    return res.status(200).json(book);
+  } catch (error) {
+    console.log(error.message);
+    return res.status(500).json({ message: 'Something went wrong' });
+  }
+};
+
 module.exports = {
   getAll,
   getById,
+  create,
 };
