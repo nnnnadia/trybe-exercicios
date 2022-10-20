@@ -25,6 +25,18 @@ const create = async (req, res) => {
   try {
     const newBook = req.body;
     const book = await BookService.create(newBook);
+    return res.status(201).json(book);
+  } catch (error) {
+    console.log(error.message);
+    return res.status(500).json({ message: 'Something went wrong' });
+  }
+};
+
+const update = async (req, res) => {
+  try {
+    const id = req.params;
+    const updatedBook = req.body;
+    const book = await BookService.update(id, updatedBook);
     return res.status(200).json(book);
   } catch (error) {
     console.log(error.message);
@@ -36,4 +48,5 @@ module.exports = {
   getAll,
   getById,
   create,
+  update,
 };
