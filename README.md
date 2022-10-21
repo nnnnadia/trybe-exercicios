@@ -177,7 +177,7 @@ Tenha acesso as [*Anotações e Referências*](https://github.com/nnnnadia/trybe
 - [x] 4.5: _[Node.js: Express e MySQL](modulo3-back-end/bloco22-introducao-desenvolvimento-web-nodejs/dia22-5/X-agora-a-pratica/exercicios.md#225-nodejs-express-e-mysql)_
 
 ##### Seção 5:
-##### Seção 6:
+##### Seção 6: Node.js: ORM e Autenticação
 
 - [ ] 6.1: _[ORM - Interface da aplicação com o banco de dados](modulo3-back-end/secao6-nodejs-orm-autenticacao/dia6-1/exercicios.md#361-orm---interface-da-aplicação-com-o-banco-de-dados)_
 
