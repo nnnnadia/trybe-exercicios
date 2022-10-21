@@ -148,36 +148,39 @@ Tenha acesso as [*Anotações e Referências*](https://github.com/nnnnadia/trybe
 
 ## Desenvolvimento Back-End :hourglass_flowing_sand:
 
-##### Bloco 19: Docker: Utilizando Containers
+##### Seção 1: Docker: Utilizando Containers
 
-- [ ] 19.1: _Utilizando Containers_
-- [ ] 19.2: _Manipulando Imagens_
-- [ ] 19:3: _Orquestrando Containers com Docker Compose_
-- [ ] 19.4: _Projeto - Docker To Do List_
+- [ ] 1.1: _Utilizando Containers_
+- [ ] 1.2: _Manipulando Imagens_
+- [ ] 1:3: _Orquestrando Containers com Docker Compose_
+- [ ] 1.4: _Projeto - Docker To Do List_
 
-##### Bloco 20: Introdução à SQL
+##### Seção 2: Introdução à SQL
 
-- [ ] 20.1: _Banco de dados SQL_
-- [ ] 20.2: _Encontrando dados em um banco de dados_
-- [ ] 20.3: _Filtrando dados de forma específica_
-- [ ] 20.4: _Manipulando tabelas_
+- [ ] 2.1: _Banco de dados SQL_
+- [ ] 2.2: _Encontrando dados em um banco de dados_
+- [ ] 2.3: _Filtrando dados de forma específica_
+- [ ] 2.4: _Manipulando tabelas_
 
-##### Bloco 21: Funções SQL, JOINs e Normalização
+##### Seção 3: Funções SQL, JOINs e Normalização
 
-- [x] 21.1: _[Funções mais usadas no SQL](modulo3-back-end/bloco21-funcoes-sql-joins-normalizacao/dia21-1/X-agora-a-pratica/exercicios.md#211-funções-mais-usadas-no-sql)_
-- [x] 21.2: _[Descomplicando JOINs](modulo3-back-end/bloco21-funcoes-sql-joins-normalizacao/dia21-2/X-agora-a-pratica/exercicios.md#212-descomplicando-joins)_
-- [x] 21.3: _[Transformando ideias em um modelo de banco de dados](modulo3-back-end/bloco21-funcoes-sql-joins-normalizacao/dia21-3/X-agora-a-pratica/exercicios.md#213-transformando-ideias-em-um-modelo-de-banco-de-dados)_
+- [x] 3.1: _[Funções mais usadas no SQL](modulo3-back-end/bloco21-funcoes-sql-joins-normalizacao/dia21-1/X-agora-a-pratica/exercicios.md#211-funções-mais-usadas-no-sql)_
+- [x] 3.2: _[Descomplicando JOINs](modulo3-back-end/bloco21-funcoes-sql-joins-normalizacao/dia21-2/X-agora-a-pratica/exercicios.md#212-descomplicando-joins)_
+- [x] 3.3: _[Transformando ideias em um modelo de banco de dados](modulo3-back-end/bloco21-funcoes-sql-joins-normalizacao/dia21-3/X-agora-a-pratica/exercicios.md#213-transformando-ideias-em-um-modelo-de-banco-de-dados)_
 
-##### Bloco 22: Introdução ao desenvolvimento Web com Node.js
+##### Seção 4: Introdução ao desenvolvimento Web com Node.js
 
-- [x] 22.1: _[Node.js: Runtime Assíncrono](modulo3-back-end/bloco22-introducao-desenvolvimento-web-nodejs/dia22-1/X-agora-a-pratica/exercicios.md#221-nodejs-runtime-ass%C3%ADncrono)_
-- [x] 22.2: _[Node.js: API REST com Express](modulo3-back-end/bloco22-introducao-desenvolvimento-web-nodejs/dia22-2/X-agora-a-pratica/exercicios.md#222-nodejs-api-rest-com-express)_
-- [x] 22.3: _[Node.js: Testes de Integração](modulo3-back-end/bloco22-introducao-desenvolvimento-web-nodejs/dia22-3/X-agora-a-pratica/exercicios.md#223-nodejs-testes-de-integração)_ (falta bônus)
-- [x] 22.4: _[Express: Middlewares](modulo3-back-end/bloco22-introducao-desenvolvimento-web-nodejs/dia22-4/X-agora-a-pratica/exercicios.md#224-express-middlewares)_
-- [x] 22.5: _[Node.js: Express e MySQL](modulo3-back-end/bloco22-introducao-desenvolvimento-web-nodejs/dia22-5/X-agora-a-pratica/exercicios.md#225-nodejs-express-e-mysql)_
+- [x] 4.1: _[Node.js: Runtime Assíncrono](modulo3-back-end/bloco22-introducao-desenvolvimento-web-nodejs/dia22-1/X-agora-a-pratica/exercicios.md#221-nodejs-runtime-ass%C3%ADncrono)_
+- [x] 4.2: _[Node.js: API REST com Express](modulo3-back-end/bloco22-introducao-desenvolvimento-web-nodejs/dia22-2/X-agora-a-pratica/exercicios.md#222-nodejs-api-rest-com-express)_
+- [x] 4.3: _[Node.js: Testes de Integração](modulo3-back-end/bloco22-introducao-desenvolvimento-web-nodejs/dia22-3/X-agora-a-pratica/exercicios.md#223-nodejs-testes-de-integração)_ (falta bônus)
+- [x] 4.4: _[Express: Middlewares](modulo3-back-end/bloco22-introducao-desenvolvimento-web-nodejs/dia22-4/X-agora-a-pratica/exercicios.md#224-express-middlewares)_
+- [x] 4.5: _[Node.js: Express e MySQL](modulo3-back-end/bloco22-introducao-desenvolvimento-web-nodejs/dia22-5/X-agora-a-pratica/exercicios.md#225-nodejs-express-e-mysql)_
 
-##### Bloco :
-##### Bloco :
+##### Seção 5:
+##### Seção 6:
+
+- [ ] 6.1: _[ORM - Interface da aplicação com o banco de dados](modulo3-back-end/secao6-nodejs-orm-autenticacao/dia6-1/exercicios.md#361-orm---interface-da-aplicação-com-o-banco-de-dados)_
+
 ##### Bloco :
 ##### Bloco :
 ##### Bloco :
