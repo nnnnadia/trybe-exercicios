@@ -1,5 +1,5 @@
 const express = require('express');
-const { BookController } = require('./controller');
+const { BookController } = require('./src/controller');
 const app = express();
 const PORT = process.env.PORT || 3000;
 
