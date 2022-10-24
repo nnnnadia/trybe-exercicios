@@ -1,4 +1,4 @@
-## 6.2: ORM - Associations 1:1 e 1:N
+## 3.6.2: ORM - Associations 1:1 e 1:N
 
 ### Agora a Prática
 - [Exercício 1](https://github.com/nnnnadia/trybe-exercicios/commit/79fdeff68da999ac60047483ad11277bbe94f07f#comments)
@@ -16,6 +16,6 @@
 
 ## 
 
-#### [⬅️ 6.1](../dia6-1/exercicios.md#361-orm---interface-da-aplicação-com-o-banco-de-dados) | [6.3 ➡️](../)
+#### [⬅️ 3.6.1](../dia6-1/exercicios.md#361-orm---interface-da-aplicação-com-o-banco-de-dados) | [3.6.3 ➡️](../)
 
 ##### [🚀 Voltar](https://github.com/nnnnadia/trybe-exercicios#se%C3%A7%C3%A3o-6-nodejs-orm-e-autentica%C3%A7%C3%A3o)
