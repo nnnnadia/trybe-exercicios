@@ -1,7 +1,7 @@
 ## 3.6.2: ORM - Associations 1:1 e 1:N
 
 ### Agora a Prática
-- [Exercício 1](https://github.com/nnnnadia/trybe-exercicios/commit/fe157a49aca72f0b9d54837cc96c4cedd6c6f155#comments)
+- [Exercício 1](https://github.com/nnnnadia/exercise-sequelize-associations-11-1n/commit/fe157a49aca72f0b9d54837cc96c4cedd6c6f155#comments)
 - [Exercício 2](https://github.com/nnnnadia/trybe-exercicios/commit/c435ee5bea936ca140c82ded192bcb430d4c7fc2#comments)
 - [Exercício 3](https://github.com/nnnnadia/trybe-exercicios/commit/e1810b6027321c244e6cd5aa63a26dbb966f5ca3#comments)
 - [Exercício 4](https://github.com/nnnnadia/trybe-exercicios/commit/ed83ff696454a331f6bf4bfe74fcada291604faa#comments)
