@@ -10,6 +10,6 @@
 
 ## 
 
-#### [⬅️ ](../../dia22-3/X-agora-a-pratica/exercicios.md#223-nodejs-testes-de-integra%C3%A7%C3%A3o) | [6.2.1 ➡️](../../dia22-5/X-agora-a-pratica/exercicios.md)
+#### [⬅️ ](../../dia22-3/X-agora-a-pratica/exercicios.md#223-nodejs-testes-de-integra%C3%A7%C3%A3o) | [3.6.2 ➡️](../dia6-2/exercicios.md#362-orm---associations-11-e-1n)
 
 ##### [🚀 Voltar](https://github.com/nnnnadia/trybe-exercicios/blob/main/README.md#se%C3%A7%C3%A3o-6-nodejs-orm-e-autentica%C3%A7%C3%A3o)
