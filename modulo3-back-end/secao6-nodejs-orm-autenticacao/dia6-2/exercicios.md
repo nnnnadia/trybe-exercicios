@@ -16,6 +16,6 @@
 
 ## 
 
-#### [⬅️ 6.1](../../dia22-3/X-agora-a-pratica/exercicios.md#223-nodejs-testes-de-integra%C3%A7%C3%A3o) | [6.3 ➡️](../../dia22-5/X-agora-a-pratica/exercicios.md#225-nodejs-express-e-mysql)
+#### [⬅️ 6.1](../dia6-1/exercicios.md#361-orm---interface-da-aplicação-com-o-banco-de-dados) | [6.3 ➡️](../)
 
 ##### [🚀 Voltar](https://github.com/nnnnadia/trybe-exercicios#se%C3%A7%C3%A3o-6-nodejs-orm-e-autentica%C3%A7%C3%A3o)
