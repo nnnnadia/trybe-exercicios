@@ -1,18 +1,18 @@
 ## 3.6.2: ORM - Associations 1:1 e 1:N
 
 ### Agora a Prática
-- [Exercício 1](https://github.com/nnnnadia/trybe-exercicios/commit/79fdeff68da999ac60047483ad11277bbe94f07f#comments)
-- [Exercício 2](https://github.com/nnnnadia/trybe-exercicios/commit/473465ddf0792ed12db5533dd4d0e72030272a9e#comments)
-- [Exercício 3](https://github.com/nnnnadia/trybe-exercicios/commit/718c5369ef77c36a477c64006932078340a476cf#comments)
-- [Exercício 4](https://github.com/nnnnadia/trybe-exercicios/commit/ace8a98f8839ebc000ae1aedd520ac528c3277b8#comments)
-- [Exercício 5](https://github.com/nnnnadia/trybe-exercicios/commit/9f68bc903fc325b573541f403cf4989db0a6a8fb#comments)
-- [Exercício 6](https://github.com/nnnnadia/trybe-exercicios/commit/c22963e44823d173685846ad648136595126a7e1#comments)
-- [Exercício 7](https://github.com/nnnnadia/trybe-exercicios/commit/5b1d82fc02670c0dfc603b481609f6d7a2b9f00a#comments)
-- [Exercício 8](https://github.com/nnnnadia/trybe-exercicios/commit/f29adfa264ed1bd19b67f1a40938b29e1b392b94#comments)
+- [Exercício 1](https://github.com/nnnnadia/trybe-exercicios/commit/fe157a49aca72f0b9d54837cc96c4cedd6c6f155#comments)
+- [Exercício 2](https://github.com/nnnnadia/trybe-exercicios/commit/c435ee5bea936ca140c82ded192bcb430d4c7fc2#comments)
+- [Exercício 3](https://github.com/nnnnadia/trybe-exercicios/commit/e1810b6027321c244e6cd5aa63a26dbb966f5ca3#comments)
+- [Exercício 4](https://github.com/nnnnadia/trybe-exercicios/commit/ed83ff696454a331f6bf4bfe74fcada291604faa#comments)
+- [Exercício 5](https://github.com/nnnnadia/trybe-exercicios/commit/2de12e792ea6c83ccc8bd7e3293ff53a31612610#comments)
+- [Exercício 6](https://github.com/nnnnadia/trybe-exercicios/commit/c94d4db081ecea666adcf5ba083a95f029dcf145#comments)
+- [Exercício 7](https://github.com/nnnnadia/trybe-exercicios/commit/742c72b712ce06375fc5fb7afec8221e8f763580#comments)
+- [Exercício 8](https://github.com/nnnnadia/trybe-exercicios/commit/d9fe83aa7d8606005c46cd7816b4fc548f332a6a#comments)
 
 ### Bônus
-- [Exercício 1](https://github.com/nnnnadia/trybe-exercicios/commit/79fdeff68da999ac60047483ad11277bbe94f07f#comments)
-- [Exercício 2](https://github.com/nnnnadia/trybe-exercicios/commit/473465ddf0792ed12db5533dd4d0e72030272a9e#comments)
+- [Exercício 1](https://github.com/nnnnadia/trybe-exercicios/commit/f97e8b253312a5bfee78f8c51cdac364ee659279#comments)
+- [Exercício 2](https://github.com/nnnnadia/trybe-exercicios/commit/7bd44336791a638b630bea8012fbfd356b81fe09#comments)
 
 ## 
 
