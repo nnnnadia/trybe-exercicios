@@ -4,10 +4,15 @@ type Discipline = {
   letterGrade?: string;
 };
 
+type School = {
+  name: string;
+  approvalGrade: number;
+}
+
 type Student = {
   name: string;
   disciplines: Discipline[];
-  school: string;
+  school: School;
 };
 
 const GRADE_DICT = {
@@ -35,9 +40,7 @@ const percentageGradesIntoLetters = (student: Student): Student => ({
 });
 
 const approvedStudents = ({ disciplines, school }: Student): boolean =>
-  disciplines.every(({ grade }) => (
-    school === 'Standard' ? grade >= 0.7 : grade >= 0.8
-  ));
+  disciplines.every(({ grade }) => grade >= school.approvalGrade);
 
 const updateApprovalData = ({ name: studentName, disciplines }: Student): void => {
   console.log(`A pessoa com nome ${studentName} foi aprovada!`);
@@ -55,17 +58,31 @@ function setApproved(students: Student[]): void {
 const students = [
   {
     name: 'Lee',
-    school: 'Standard',
+    school: { name: 'Standard', approvalGrade: 0.7 },
     disciplines: [
       { name: 'matemática', grade: 0.3 },
       { name: 'história', grade: 0.6 },
     ],
   }, {
-    name: 'Nádia',
-    school: 'Hogwarts',
+    name: 'Lee',
+    school: { name: 'Standard', approvalGrade: 0.7 },
     disciplines: [
-      { name: 'matemárica', grade: 1 },
-      { name: 'história', grade: 0.8 },
+      { name: 'matemática', grade: 0.8 },
+      { name: 'história', grade: 0.9 },
+    ],
+  }, {
+    name: 'Albus',
+    school: { name: 'Hogwarts', approvalGrade: 0.8 },
+    disciplines: [
+      { name: 'divination', grade: 0.8 },
+      { name: 'potions', grade: 0.9 },
+    ],
+  }, {
+    name: 'Nádia',
+    school: { name: 'Trybe', approvalGrade: 0.6 },
+    disciplines: [
+      { name: 'front-end', grade: 1 },
+      { name: 'back-end', grade: 0.8 },
     ],
   },
 ];
