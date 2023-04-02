@@ -90,7 +90,7 @@ Tenha acesso as [*Anotações e Referências*](https://github.com/nnnnadia/trybe
 - [ ] 9.3: _[Jest - Testes Assíncronos](modulo1-fundamentos/bloco9-javascript-testes-assincronos/dia9-3/X-agora-a-pratica/exercicios.md)_
 - [ ] 9.4: _Projeto - Carrinho de Compras_
 
-## Desenvolvimento Front-End :white_check_mark:
+## Desenvolvimento Front-End :heavy_check_mark:
 
 ##### Bloco 10: Introdução à React
 
@@ -146,7 +146,7 @@ Tenha acesso as [*Anotações e Referências*](https://github.com/nnnnadia/trybe
 
 - [ ] 18.1: _Projeto - App de Receitas_
 
-## Desenvolvimento Back-End :hourglass_flowing_sand:
+## Desenvolvimento Back-End :heavy_check_mark:
 
 ##### Seção 1: Docker: Utilizando Containers
 
@@ -190,9 +190,13 @@ Tenha acesso as [*Anotações e Referências*](https://github.com/nnnnadia/trybe
 ##### Bloco :
 ##### Bloco :
 
-## Ciência da Computação :hourglass_flowing_sand:
+## Ciência da Computação :white_check_mark:
 
 ## Referências
+
+##### Seção 1: Introdução à Python
+
+- [ ] 1.1: _[Aprendendo Python]()_
 
 - _[www.developer.mozilla.org/](https://developer.mozilla.org/)_
 - _[www.w3schools.com](https://www.w3schools.com)_
