@@ -1,4 +1,4 @@
-type Discipline = {
+export type Discipline = {
   name: string;
   grade: number;
   letterGrade?: string;
@@ -9,7 +9,7 @@ type School = {
   approvalGrade: number;
 }
 
-type Student = {
+export type Student = {
   name: string;
   disciplines: Discipline[];
   school: School;
